@@ -10,4 +10,3 @@
 1. [Project Placement](project-placement.md)
 1. [Code of Conduct](code-of-conduct.md)
 1. [Glossary](glossary.md)
-# handbook
