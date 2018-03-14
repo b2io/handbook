@@ -108,13 +108,13 @@ There is no sense in working through a cold. Stay home, take the day off, and fo
 
 ## Family Leave
 
-> We need to discuss this as a team. It would be great to provide a sizeable leave (paternity/maternity/family health issues), but we need to figure out how to reduce the financial impact ([issue #16](https://github.com/b2io/handbook/issues/16))
+> We need to discuss this as a team. It would be great to provide a sizeable leave (paternity/maternity/family health issues), but we need to figure out how to reduce the financial impact ([issue #1](https://github.com/b2io/handbook/issues/1))
 
 ## 401k
 
 Saving for retirement is important, and Base Two's 401k plan provides a method to save with pre-tax money. To help with your savings Base Two contributes 3% of your salary to your Base Two 401k plan. This amount is a direct employer contribution rather than an incentive match. Therefore you are free to contribute any amount to your 401k plan without worrying about how it impacts the contribution from Base Two. There are many retirement investment vehicles out there, and we don't assume to know what's best for you.
 
-Your Base Two 401k is administered through Paychex, and it can be managed at https://myapps.paychex.com.
+Your Base Two 401k is administered through ADP, and it can be managed at [www.mykplan.com](http://www.mykplan.com).
 
 ## Hardware
 
