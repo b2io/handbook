@@ -5,33 +5,36 @@
 Your work and activities may change day-to-day, but there are general expectations that remain the same.
 
 ### What We Expect
-* Your best effort to do what's best for you and the company
-* Be open, honest, and empathetic
-* Clearly communicate with the team
-* Be understanding and constructive in conversations
+
+- Your best effort to do what's best for you and the company
+- Be open, honest, and empathetic
+- Clearly communicate with the team
+- Be understanding and constructive in conversations
 
 ### What We DON'T Expect
-* You know everything on the first day, or ever for that matter
-* You are at your desk at all times
-* You work as many hours as possible
-* Unquestioning agreement with the way things are
+
+- You know everything on the first day, or ever for that matter
+- You are at your desk at all times
+- You work as many hours as possible
+- Unquestioning agreement with the way things are
 
 ## Time tracking
+
 We use [Harvest](https://b2io.harvestapp.com/) to track time, and there are [nice apps out there for it](http://lmgtfy.com/?q=harvest+apps) to help you track as you work.
 
 Our benchmark number is between 32 and 40 tracked hours, and we operate in good
 faith that we are doing the best we can for the company without burning out.
 
 > Question: at what point do we, as a company, start pestering people about
-their hours? Should one make up the time spent in a long lunch that wasn't a
-meeting?
+> their hours? Should one make up the time spent in a long lunch that wasn't a
+> meeting?
 
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
 - Everyone can see everyone's time.
   - Don't panic, no one's stalking you. Except maybe Tony.
   - Feel free to check out other people's time sheets if you're curious how
-  they're tracking things.
+    they're tracking things.
 - Be honest in tracked time, even if it's short of 40 hours
 - If time is not tied to a task number add a description of what you did (future
   you will be pleased)
@@ -56,9 +59,9 @@ We use Harvest to track our expenses as well as our time. It is very easy and ni
 1. Go to the [expenses tab in Harvest](https://b2io.slack.com/archives/C904HLD5L/p1517848681000679)
 2. Click "New Expense"
 3. Enter the Project/Category (typically you'll want the categories under
-Internal)
+   Internal)
 4. Enter the amount and description of your expense
-5. *Mark it billable* (this helps us keep track of which expenses have been paid)
+5. _Mark it billable_ (this helps us keep track of which expenses have been paid)
 6. Save!
 
 ### What qualifies as a thing I can expense?
@@ -68,17 +71,18 @@ software (see [Onboarding](./onboarding.md) for more information). It may seem i
 expense so much stuff right off the bat, but don't be alarmed. If you have questions or concerns, please ask someone.
 
 Items that are typically expensed include, but are not limited to:
- - software that is necessary to do your job
- - computer peripherals
- - picking up the food tab for a client
- - conference tickets
- - items for the office
+
+- software that is necessary to do your job
+- computer peripherals
+- picking up the food tab for a client
+- conference tickets
+- items for the office
 
 Again: if you're unsure, ask someone.
 
 ## The Office
 
-Our building has security gates which are typically locked in the morning and evening. To unlock the gate, use [the code listed here](https://b2io.slack.com/archives/C904HLD5L/p1516982371000264).
+There are many ways to enter our Columbus office. If you encounter a keypad at any point, you will find [this document](https://b2io.slack.com/archives/C904HLD5L/p1516982371000264) helpful.
 
 We have fancy Jarvis standing desks. Use the up and down arrows on the desk panel to adjust the height. You can save up to 4 presets by adjusting the desk to the desired height and pressing the M button followed by a numbered button.
 
@@ -110,6 +114,7 @@ When working remote please keep the following in mind:
 In lieu of an in-person [stand-up meeting](https://en.wikipedia.org/wiki/Stand-up_meeting), we have a Slack channel ([#standup](https://b2io.slack.com/messages/standup/)) dedicated to the subject. Everyone has a slightly different stand-up message style. Feel free to mimic or create whatever style works best for you.
 
 Posting this information is helpful in a few ways.
+
 - Provides a lo-fi personal todo list
 - Gives a general sense of work load
 - Provides a reminder of what you worked on in case you forget to track your time
@@ -121,6 +126,7 @@ Feel free to mention other people in your status if you want them to read it mor
 > "I like meetings, as long as they're not a waste of time. Most meetings are a waste of time." - Tony Borres
 
 Definition of a good meeting:
+
 - There is an agenda
 - Attendees leave with action items
 - Notes are taken
@@ -130,20 +136,20 @@ Definition of a good meeting:
 The entire team meets once a week for lunch (paid for by Base Two) to go over the state of the company. The meeting typically lasts about 1.5 hours. The agenda for each meeting is prepared that morning (in a shared Google Doc) and all team members are welcome to contribute. We cover any combination of the following (incomplete) list of topics:
 
 - Financials
-	- Account balances
-	- Invoices/billing
-	- Profitability
-	- Hours
+  - Account balances
+  - Invoices/billing
+  - Profitability
+  - Hours
 - Project updates
 - Business development
 - Operations
-	- Benefits updates
-	- Taxes
-	- Profit sharing
+  - Benefits updates
+  - Taxes
+  - Profit sharing
 - Recruitment
 - Marketing
-	- Blog
-	- Social media
+  - Blog
+  - Social media
 - Team member updates
 - Shout-outs
 - Action Items
