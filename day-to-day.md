@@ -68,7 +68,7 @@ If you're unsure about when, how, or if a purchase should be made, ask about it 
 
 ### Ordering Items via the Purchasing Agent
 
-"Purchasing Agent" is just a fancy title we gave Tony because he has one of the few company credit cards and already handles the expenses. When you need his help ordering something, send him as much detail about the item as possible via Slack(links, make, model, color, etc.).
+"Purchasing Agent" is just a fancy title we gave Tony because he has one of the few company credit cards and already handles the expenses. When you need his help ordering something, send him as much detail about the item as possible via Slack (links, make, model, color, etc.).
 
 ### Expensing Items
 
