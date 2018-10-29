@@ -52,25 +52,11 @@ another day (prior or subsequent).
 
 > We trust that we'll make up our time in a timely manner
 
-## Expensing Items
+## Making Purchases
 
-We use Harvest to track our expenses as well as our time. It is very easy and nice.
+There are two ways to acquire items for Base Two: use the company card via the "Purchasing Agent" or expense a purchase you have made personally.
 
-1. Go to the [expenses tab in Harvest](https://b2io.slack.com/archives/C904HLD5L/p1517848681000679)
-2. Click "New Expense"
-3. Enter the Project/Category (typically you'll want the categories under
-   Internal)
-4. Enter the amount and description of your expense
-5. _Mark it billable_ (this helps us keep track of which expenses have been paid)
-6. Save!
-
-### What qualifies as a thing I can expense?
-
-As a new employee, you'll be expensing a lot of things like hardware and
-software (see [Onboarding](./onboarding.md) for more information). It may seem intimidating to
-expense so much stuff right off the bat, but don't be alarmed. If you have questions or concerns, please ask someone.
-
-Items that are typically expensed include, but are not limited to:
+Items that are typically bought for the company include, but are not limited to:
 
 - software that is necessary to do your job
 - computer peripherals
@@ -78,7 +64,24 @@ Items that are typically expensed include, but are not limited to:
 - conference tickets
 - items for the office
 
-Again: if you're unsure, ask someone.
+If you're unsure about when, how, or if a purchase should be made, ask about it in the #business channel on Slack or ask a teammate.
+
+### Ordering Items via the Purchasing Agent
+
+"Purchasing Agent" is just a fancy title we gave Tony because he has one of the few company credit cards and already handles the expenses. When you need his help ordering something, send him as much detail about the item as possible via Slack(links, make, model, color, etc.).
+
+### Expensing Items
+
+As an employee of Base Two, _you are not required to make any work-related purchases with your own money_. However, if you'd like to order something and expense it, feel free to follow these instructions:
+
+1. Go to the [expenses tab in Harvest](https://b2io.slack.com/archives/C904HLD5L/p1517848681000679)
+2. Click "New Expense"
+3. Enter the Project/Category (typically you'll want the categories under
+   Internal)
+4. Enter the amount and description of your expense
+5. Add a photo of the receipt
+6. _Mark it billable_ (this helps us keep track of which expenses have been paid)
+7. Save!
 
 ## The Office
 
