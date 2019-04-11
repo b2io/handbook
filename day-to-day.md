@@ -72,7 +72,9 @@ If you're unsure about when, how, or if a purchase should be made, ask about it 
 
 ### Expensing Items
 
-As an employee of Base Two, _you are not required to make any work-related purchases with your own money_. However, if you'd like to order something and expense it, feel free to follow these instructions:
+As an employee of Base Two, _you are not required to make any work-related purchases with your own money_. However, if you'd like to order something and expense it, follow these instructions.
+
+_**Note:** Expenses should be submitted within two weeks so that we can better track our cash flow._
 
 1. Go to the [expenses tab in Harvest](https://b2io.slack.com/archives/C904HLD5L/p1517848681000679)
 2. Click "New Expense"
