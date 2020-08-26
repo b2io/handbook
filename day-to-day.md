@@ -4,25 +4,25 @@
 
 Your work and activities may change day-to-day, but there are general expectations that remain the same.
 
-### What We Expect
+### We Expect
 
 - Your best effort to do what's best for you and the company
-- Be open, honest, and empathetic
-- Clearly communicate with the team
-- Be understanding and constructive in conversations
+- Openness, honesty, and empathy
+- Clear communication with the team
+- Conversations to be both understanding and constructive
 
-### What We DON'T Expect
+### We DON'T Expect
 
-- You know everything on the first day, or ever for that matter
-- You are at your desk at all times
-- You work as many hours as possible
-- Unquestioning agreement with the way things are
+- That you know everything on the first day, or ever for that matter
+- You to be working at your desk at all times
+- You to be working as many hours as possible
+- Your unquestioning agreement with the way things are
 
 ## Time tracking
 
 We use [Harvest](https://b2io.harvestapp.com/) to track time, and there are [nice apps out there for it](http://lmgtfy.com/?q=harvest+apps) to help you track as you work.
 
-Our benchmark number is between 32 and 40 tracked hours, and we operate in good
+Our benchmark number is between 35 and 40 tracked hours, and we operate in good
 faith that we are doing the best we can for the company without burning out.
 
 > Question: at what point do we, as a company, start pestering people about
@@ -32,23 +32,24 @@ faith that we are doing the best we can for the company without burning out.
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
 - Everyone can see everyone's time.
-  - Don't panic, no one's stalking you. Except maybe Tony.
+  - Don't panic, no one's stalking you (see code of conduct). Except maybe Tony.
   - Feel free to check out other people's time sheets if you're curious how
     they're tracking things.
 - Be honest in tracked time, even if it's short of 40 hours
 - If time is not tied to a task number add a description of what you did (future
   you will be pleased)
-- When you're not doing client work, track to Internal
+- When you're not doing client work, track to _Internal_
   - There are lots of buckets in Internal, check them out
   - It gives you (and the team) insight into your past work
+- Include details for client work. You do not have to go overboard, but if you are not tracking to a specific development task, try to explain what you spent your time doing.
 
 Try to have the day's hours in and rounded to the quarter hour by the end of the day. If we feel like we have a lot of billable work but aren't tracking a high number of billable hours, that
 will likely trigger a conversation around team productivity.
 
 ### Flex time
 
-Clear time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on
-another day (prior or subsequent).
+A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on
+another day (prior or subsequent). Communicating your away from keyboard time to your teammates is a nice thing to do.
 
 > We trust that we'll make up our time in a timely manner
 
@@ -97,11 +98,7 @@ We have also invested in highly-adjustable, ergonomic Steelcase Gesture chairs f
 
 We take coffee pretty seriously (some of us more than others). Coffee beans and other accoutrement are supplied by the company. Feel free to drink any coffee that has been made, and to make more whenever your caffeine-deprived heart desires.
 
-Aside from coffee, we are also serious about stocking water, fizzy water, pop, and beer.
-
-You can track time while drinking, unless you're drinking margaritas with Jeff - that's definitely not billable.
-
-Grocery shopping is typically the responsibility of one person (Jeff). Let that person know what you'd like to have stocked in the fridge.
+Aside from coffee, we are also serious about stocking water, fizzy water, soda, and beer at the office. For remote employees, you should be drinking your own water, fizzy water, soda, and beer.
 
 ## Remote Work
 
@@ -177,3 +174,7 @@ Our goal is to be prepared for client meetings 15 minutes before they begin, reg
 ### Remote Meetings
 
 We use [Zoom](https://zoom.us/) for remote meetings. You can sign-up and use Zoom for free with your Base Two email address. The free version works great for 1-1 video calls, but is limited to 40 minutes when there are multiple attendees. We have a paid account through info@base2.io, which is useful for client meetings. The password for the paid account can be found in the [credentials document](https://b2io.slack.com/archives/C904HLD5L/p1516982426000280).
+
+### Base Two Day
+
+Base Twwo Day is celebrated annually on August 26. It is the anniversary of the founding of Base Two. In the past, this day has been celebrated by hanging out, or participating in Hackathons. Tracking of what has been done on this day is now kept on the team's Google Drive. Discussions around this topic can be found on the [#side-quests](https://join.slack.com/share/zt-h7xz6k8g-FuetGuYYeuKYj34ukKptCg) Slack channel.
