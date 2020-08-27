@@ -116,7 +116,7 @@ There is no sense in working through a cold. Stay home, take the day off, and fo
 
 ## Jury Duty
 
-> Are there any allocations for Bereavement?
+> Are there any allocations for Jury Duty?
 
 ## Voting Leave
 
