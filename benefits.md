@@ -120,7 +120,7 @@ There is no sense in working through a cold. Stay home, take the day off, and fo
 
 ## Voting Leave
 
-Civic responsibility is important, and employees are encouraged to exersize their right to vote. If you need to leave during the work day to vote, please let your collegues know.
+Civic responsibility is important, and employees are encouraged to exercise their right to vote. If you need to leave during the work day to vote, please let your colleagues know.
 
 ## 401k
 

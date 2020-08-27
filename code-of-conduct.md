@@ -40,7 +40,7 @@ We don't have much of a formal system, it's something we are continuing to creat
 Examples of behavior that may result in disciplinary action, including possible termination, include but are not limited to:
 
 - Verbal or written comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or political opinion.
-- Deliberate intimidation, stalking, following, or harrasment
+- Deliberate intimidation, stalking, following, or harassment
 - Treating others in a discourteous manner
 - Inappropriate physical contact
 - Unwelcome sexual attention
@@ -49,18 +49,18 @@ Examples of behavior that may result in disciplinary action, including possible 
 
 ## Confidentiality
 
-Base Two employees must adhere to any client's confidentiality guidelines, as well as use discretion when relaying potential client work or internal communications in an external way. If there is any question as to what sort of information is confidential, it is best to error on the side of caution or to ask a collegue/supervisor.
+Base Two employees must adhere to any client's confidentiality guidelines, as well as use discretion when relaying potential client work or internal communications in an external way. If there is any question as to what sort of information is confidential, it is best to error on the side of caution or to ask a colleague/supervisor.
 
 ## Equal Opportunity Employment
 
-Base Two is an equal opportunity employer and does not discriminate on the basis of race, ethnicity, religion, creed, sex, gender, sexual orientation, age, marital status, pregnancy or parental status, veteran status, national origin or ancestry, physical or mental disability, medical condition, family medical history or genetic information, military service, or other non-merit based factor We do not tolerate discriminiation in including but not limited to including recruitment and hiring practices, appraisal systems, promotions, training, and career development programs.
+Base Two is an equal opportunity employer and does not discriminate on the basis of race, ethnicity, religion, creed, sex, gender, sexual orientation, age, marital status, pregnancy or parental status, veteran status, national origin or ancestry, physical or mental disability, medical condition, family medical history or genetic information, military service, or other non-merit based factor We do not tolerate discrimination in including but not limited to including recruitment and hiring practices, appraisal systems, promotions, training, and career development programs.
 
-## Reasonable and Fair Accomodation for Persons with Disabilities
+## Reasonable and Fair Accommodation for Persons with Disabilities
 
-Base TWo will provide reasonable and fair accomodation to inidividuals with a physical or mental disability. Criteria being that accomodation would not impose an undue hardship on Base Two or other employees, and would enable the individual to apply for employment or perform essential functions of their position. It is the responsiblity of every applicant or employee who requires accomodation to make his or her needs known, and understand that Base Two will engage in this accomodation process in good faith. For accomodations related to completing a job application, please contact [info@base2.io](mailto:jobs@base2.io).
+Base TWo will provide reasonable and fair accommodation to individuals with a physical or mental disability. Criteria being that accommodation would not impose an undue hardship on Base Two or other employees, and would enable the individual to apply for employment or perform essential functions of their position. It is the responsibility of every applicant or employee who requires accommodation to make his or her needs known, and understand that Base Two will engage in this accommodation process in good faith. For accommodations related to completing a job application, please contact [info@base2.io](mailto:jobs@base2.io).
 
 ## At Will Employment
 
-This handbook serves as employee guidlines, not as an employment contract.
+This handbook serves as employee guideline, not as an employment contract.
 
 > should we include an At-Will statement here?

@@ -45,7 +45,7 @@ Portion of the weekly meeting wherein we bestow accolades upon our coworkers.
 
 **Shout-ats** &mdash; _Negative feedback_
 
-Portion of the weekly meeting that previously did not exist, but had to make a comback due to 2020 being the year that it was.
+Portion of the weekly meeting that previously did not exist, but had to make a comeback due to 2020 being the year that it was.
 
 ---
 

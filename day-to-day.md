@@ -22,7 +22,7 @@ Your work and activities may change day-to-day, but there are general expectatio
 
 We use [Harvest](https://b2io.harvestapp.com/) to track time, and there are [nice apps out there for it](http://lmgtfy.com/?q=harvest+apps) to help you track as you work.
 
-In order for us to fullfill our obligations to clients and to best work with your team, we ask that you are present at predictible times. Our benchmark number is between 35 and 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for relable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliablity are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is paramount when working with a team and for clients.
+In order for us to fullfil our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is between 35 and 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is paramount when working with a team and for clients.
 
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
@@ -183,7 +183,7 @@ Every team member is welcome to choose their hardware, software, and development
 - Github Projects for project management
 - Google Suite for document storage and email.
 
-Team members reccommend some of the following tools for personal worlflow:
+Team members recommend some of the following tools for personal workflow:
 
 - VSCode
 - Things3 for To Do list management
