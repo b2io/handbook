@@ -46,3 +46,21 @@ Examples of behavior that may result in disciplinary action, including possible 
 - Unwelcome sexual attention
 - Reporting for work under the influence of illegal drugs
 - Bringing a weapon into the workplace
+
+## Confidentiality
+
+Base Two employees must adhere to any client's confidentiality guidelines, as well as use discretion when relaying potential client work or internal communications in an external way. If there is any question as to what sort of information is confidential, it is best to error on the side of caution or to ask a collegue/supervisor.
+
+## Equal Opportunity Employment
+
+Base Two is an equal opportunity employer and does not discriminate on the basis of race, ethnicity, religion, creed, sex, gender, sexual orientation, age, marital status, pregnancy or parental status, veteran status, national origin or ancestry, physical or mental disability, medical condition, family medical history or genetic information, military service, or other non-merit based factor We do not tolerate discriminiation in including but not limited to including recruitment and hiring practices, appraisal systems, promotions, training, and career development programs.
+
+## Reasonable and Fair Accomodation for Persons with Disabilities
+
+Base TWo will provide reasonable and fair accomodation to inidividuals with a physical or mental disability. Criteria being that accomodation would not impose an undue hardship on Base Two or other employees, and would enable the individual to apply for employment or perform essential functions of their position. It is the responsiblity of every applicant or employee who requires accomodation to make his or her needs known, and understand that Base Two will engage in this accomodation process in good faith. For accomodations related to completing a job application, please contact [info@base2.io](mailto:jobs@base2.io).
+
+## At Will Employment
+
+This handbook serves as employee guidlines, not as an employment contract.
+
+> should we include an At-Will statement here?

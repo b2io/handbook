@@ -22,12 +22,7 @@ Your work and activities may change day-to-day, but there are general expectatio
 
 We use [Harvest](https://b2io.harvestapp.com/) to track time, and there are [nice apps out there for it](http://lmgtfy.com/?q=harvest+apps) to help you track as you work.
 
-Our benchmark number is between 35 and 40 tracked hours, and we operate in good
-faith that we are doing the best we can for the company without burning out.
-
-> Question: at what point do we, as a company, start pestering people about
-> their hours? Should one make up the time spent in a long lunch that wasn't a
-> meeting?
+In order for us to fullfill our obligations to clients and to best work with your team, we ask that you are present at predictible times. Our benchmark number is between 35 and 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for relable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliablity are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is paramount when working with a team and for clients.
 
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
@@ -177,4 +172,22 @@ We use [Zoom](https://zoom.us/) for remote meetings. You can sign-up and use Zoo
 
 ### Base Two Day
 
-Base Twwo Day is celebrated annually on August 26. It is the anniversary of the founding of Base Two. In the past, this day has been celebrated by hanging out, or participating in Hackathons. Tracking of what has been done on this day is now kept on the team's Google Drive. Discussions around this topic can be found on the [#side-quests](https://join.slack.com/share/zt-h7xz6k8g-FuetGuYYeuKYj34ukKptCg) Slack channel.
+Base Two Day is celebrated annually on August 26. It is the anniversary of the founding of Base Two. In the past, this day has been celebrated by hanging out, or participating in Hackathons. Tracking of what has been done on this day is now kept on the team's Google Drive. Discussions around this topic can be found on the [#side-quests](https://join.slack.com/share/zt-h7xz6k8g-FuetGuYYeuKYj34ukKptCg) Slack channel. Base Two Day is also a day when we try to remember to review the handbook!
+
+## We Use
+
+Every team member is welcome to choose their hardware, software, and development environment. In addition to Zoom for both internal and external meetings, and Harvest for time tracking, we use:
+
+- Slack for daily communication
+- Github for remote versioning control
+- Github Projects for project management
+- Google Suite for document storage and email.
+
+Team members reccommend some of the following tools for personal worlflow:
+
+- VSCode
+- Things3 for To Do list management
+- GIF Brewery 3 for screen recording
+- Kap for screen recording
+- Noteablity for note-taking
+- Bear for markdown text writing
