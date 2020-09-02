@@ -27,7 +27,7 @@ In order for us to fullfil our obligations to clients and to best work with your
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
 - Everyone can see everyone's time.
-  - Don't panic, no one's stalking you [see code of conduct](./code-of-conduct.md).
+  - Don't panic. No one is micromanaging you. Accuracy is important for client billing.
   - Feel free to check out other people's time sheets if you're curious how
     they're tracking things.
 - Be honest in tracked time, even if it's short of 40 hours
@@ -43,8 +43,7 @@ will likely trigger a conversation around team productivity.
 
 ### Flex time
 
-A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on
-another day (prior or subsequent). Communicating your away from keyboard time to your teammates is a nice thing to do.
+A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). Its important to communicate your away from Keyboard time to your teammates.
 
 > We trust that we'll make up our time in a timely manner
 
@@ -189,5 +188,5 @@ Team members recommend some of the following tools for personal workflow:
 - Things3 for To Do list management
 - GIF Brewery 3 for screen recording
 - Kap for screen recording
-- Noteablity for note-taking
+- Notablity for note-taking
 - Bear for markdown text writing
