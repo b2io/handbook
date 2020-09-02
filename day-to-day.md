@@ -93,7 +93,7 @@ We have also invested in highly-adjustable, ergonomic Steelcase Gesture chairs f
 
 We take coffee pretty seriously (some of us more than others). Coffee beans and other accoutrement are supplied by the company. Feel free to drink any coffee that has been made, and to make more whenever your caffeine-deprived heart desires.
 
-Aside from coffee, we are also serious about stocking water, fizzy water, soda, and beer at the office. For remote employees, you should be drinking your own water, fizzy water, soda, and beer.
+Aside from coffee, we like to stock water, fizzy water, soda, and beer at the office. Currently, we don't reimburse non-coffee treats for remote employees, but we'd like to discuss this further as more of the team has shifted to working remotely.
 
 ## Remote Work
 
