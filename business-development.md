@@ -28,4 +28,4 @@ Our roster ranges from small, bootstrap startups to fortune 500 companies and ev
 
 ## Conversation End Goal
 
-We strive to collaboratively solve each problem with our client. Even if we're not the right return-on-the-dollar for them, how can we be helpful? Can we recommend a contractor, can we recommend other companies?
+We're most successful with clients when we're able to transition from being seen as a vendor trying to sell a solution, to instead them feeling that we're hearing and understanding their problem, brainstorming possible solutions. We think of this as trying to get on the same side of the table as the client, collaborating on their issue. We want them to feel that we're good listeners for any problems they might have, not only those that they believe are explicitly in our wheelhouse. The contracts and sales tend to flow naturally out of a relationship where they first and foremost feel comfortable brainstorming or just venting about whatever problems might be on their plate.

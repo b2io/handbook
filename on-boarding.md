@@ -15,8 +15,8 @@ One team member will be in charge of supervising the on-boarding process, making
   - Check out the notes from the most recent [Weekly Meeting](https://b2io.slack.com/archives/C904HLD5L/p1516982531000575)
 - Scroll through Slack and see what we've been talking about lately
 - Add yourself to the [Base Two website](http://base2.io)
-  - Open up the [project board](https://github.com/b2io/base2.io/projects) for the Base 2 website
-  - Add a task such as "add <name> to the website"
+  - Open up the [project board](https://github.com/b2io/base2.io/projects) for the Base Two website
+  - Add a task such as "Add <name> to the website"
   - Assign yourself to it and move it to the "In Progress" column
   - Begin working on the task and track time to the base2.io Harvest project
 - Get to know each member of the team by scheduling 1:1s with them
