@@ -57,7 +57,7 @@ Base Two is an equal opportunity employer and does not discriminate on the basis
 
 ## Reasonable and Fair Accommodation for Persons with Disabilities
 
-Base TWo will provide reasonable and fair accommodation to individuals with a physical or mental disability. Criteria being that accommodation would not impose an undue hardship on Base Two or other employees, and would enable the individual to apply for employment or perform essential functions of their position. It is the responsibility of every applicant or employee who requires accommodation to make his or her needs known, and understand that Base Two will engage in this accommodation process in good faith. For accommodations related to completing a job application, please contact [info@base2.io](mailto:jobs@base2.io).
+Base Two will provide reasonable and fair accommodation to individuals with a physical or mental disability. Criteria being that accommodation would not impose an undue hardship on Base Two or other employees, and would enable the individual to apply for employment or perform essential functions of their position. It is the responsibility of every applicant or employee who requires accommodation to make his or her needs known, and understand that Base Two will engage in this accommodation process in good faith. For accommodations related to completing a job application, please contact [info@base2.io](mailto:jobs@base2.io).
 
 ## At Will Employment
 
