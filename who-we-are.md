@@ -30,7 +30,7 @@ We typically work on smaller 2-6 month projects that use forward-leaning technol
 
 In addition we also provide access to online training opportunities and sponsor employee attendance at various technical conferences. We encourage community involvement through technical meetups and open source contributions.
 
-Career growth is facilitated and tracked. Individuals meet routinely with their supervisor to discuss career goals, track goal progress, and discuss feedback from the rest of the team. Our flat hierarchy means that no one has a direct manager. we do not review our teammates, We advocate for them.
+Career growth is facilitated and tracked. Individuals meet routinely with a team member to discuss career goals, track goal progress, and discuss feedback. Our flat hierarchy means that no one has a direct manager. We are accountable to, and advocate for each other.
 
 ### Honest and Open
 
