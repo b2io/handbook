@@ -75,7 +75,7 @@ Vision insurance is provided through Anthem Blue View Vision, which can be manag
 
 ## Vacation
 
-Employees are encouraged to take an average of 3 weeks (15 days) of vacation a year in order to take a break from work, travel, and come back feeling refreshed. Since nobody likes vacation day math, our vacation policy is flexible - there is no loss of vacation days or rollovers at the end of the year. With the flexible policy, if you took a couple of long weekends earlier in the year, and then you have the opportunity to take a 3 week European vacation - do it! We don't want you to miss out on opportunities because of an arbitrary number of days.
+Employees are encouraged to take an average of 3 weeks (15 days) of vacation a year in order to take a break from work, travel, and come back feeling refreshed. Since nobody likes vacation day math, our vacation policy is flexible - there is no loss of vacation days or rollovers at the end of the year. With the flexible policy, if you took a couple of long weekends earlier in the year, and then you have the opportunity to take a 3 week European vacation - do it! We don't want you to miss out on opportunities.
 
 When planning to take vacation time we ask that you include your anticipated out of office days to [Forecast](https://forecastapp.com/715825/schedule/team), as well as to your Base Two calendar, and let the team and your active clients know of your plans. Also, as your time off approaches please remind both the Base Two team and your active clients.
 
