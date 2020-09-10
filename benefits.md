@@ -81,7 +81,7 @@ When planning to take vacation time we ask that you include your anticipated out
 
 ## Holidays
 
-Base Two provides 12 paid holidays in which the Base Two office will be closed.
+Base Two provides 13 paid holidays in which the Base Two office will be closed.
 
 1. New Year's Day (January 1st)
 2. Martin Luther King Day (3rd Monday in January)
@@ -90,15 +90,16 @@ Base Two provides 12 paid holidays in which the Base Two office will be closed.
 5. Memorial Day (last Monday in May)
 6. Independence Day (4th of July)
 7. Labor Day (1st Monday in September)
-8. Veterans Day (November 11th)
-9. Thanksgiving (4th Thursday in November)
-10. Consumerism Day (day after Thanksgiving)
-11. Christmas Eve (December 24th)
-12. Christmas Day (December 25th)
+8. Voting Day (November 3)
+9. Veterans Day (November 11th)
+10. Thanksgiving (4th Thursday in November)
+11. Consumerism Day (day after Thanksgiving)
+12. Christmas Eve (December 24th)
+13. Christmas Day (December 25th)
 
 If any of the holidays falls on a weekend, the closest weekday will be substituted.
 
-In addition to these 12 holidays we also close the office for Base Two Day. Base Two was founded on August 26, 2011. To celebrate the founding of our company we take a break from day-to-day work to do a fun activity as a group each August 26th (or nearest work day).
+In addition to these 13 holidays we also close the office for Base Two Day. Base Two was founded on August 26, 2011. To celebrate the founding of our company we take a break from day-to-day work to do a fun activity as a group each August 26th (or nearest work day).
 
 ## Sick
 
