@@ -4,7 +4,7 @@ We offer great benefits so that the **life** portion of work-life balance can be
 
 - [Free employee healthcare](#Health-Insurance) ([health](#health), [dental](#dental), and [vision](#vision))
 - [Vacation](#vacation) - 15 days per year
-- [Holidays](#holidays) - 12 per year
+- [Holidays](#holidays) - 13 per year
 - [Sick](#sick) days as necessary
 - [401k](#401k) - 3% automatic employer contribution
 - [Hardware](#hardware) - you choose
