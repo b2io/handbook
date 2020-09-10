@@ -4,51 +4,46 @@
 
 Your work and activities may change day-to-day, but there are general expectations that remain the same.
 
-### What We Expect
+### We Expect
 
-- Your best effort to do what's best for you and the company
-- Be open, honest, and empathetic
-- Clearly communicate with the team
-- Be understanding and constructive in conversations
+- That you do the best you can
+- Openness, honesty, and empathy
+- Clear communication with the team
+- Conversations that are both understanding and constructive
 
-### What We DON'T Expect
+### We DON'T Expect
 
-- You know everything on the first day, or ever for that matter
-- You are at your desk at all times
-- You work as many hours as possible
+- You to know everything on the first day, or ever
+- Being at your desk at all times
+- Working as many hours as possible
 - Unquestioning agreement with the way things are
 
 ## Time tracking
 
-We use [Harvest](https://b2io.harvestapp.com/) to track time, and there are [nice apps out there for it](http://lmgtfy.com/?q=harvest+apps) to help you track as you work.
+We use [Harvest](https://b2io.harvestapp.com/) to track time.
 
-Our benchmark number is between 32 and 40 tracked hours, and we operate in good
-faith that we are doing the best we can for the company without burning out.
-
-> Question: at what point do we, as a company, start pestering people about
-> their hours? Should one make up the time spent in a long lunch that wasn't a
-> meeting?
+In order for us to fullfil our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is paramount when working with a team and for clients.
 
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
 - Everyone can see everyone's time.
-  - Don't panic, no one's stalking you. Except maybe Tony.
+  - Don't panic. No one is micromanaging you. Accuracy is important for client billing.
   - Feel free to check out other people's time sheets if you're curious how
     they're tracking things.
 - Be honest in tracked time, even if it's short of 40 hours
 - If time is not tied to a task number add a description of what you did (future
   you will be pleased)
-- When you're not doing client work, track to Internal
+- When you're not doing client work, track to _Internal_
   - There are lots of buckets in Internal, check them out
   - It gives you (and the team) insight into your past work
+- Include details for client work. You do not have to go overboard, but if you are not tracking to a specific development task, try to explain what you spent your time doing.
 
 Try to have the day's hours in and rounded to the quarter hour by the end of the day. If we feel like we have a lot of billable work but aren't tracking a high number of billable hours, that
 will likely trigger a conversation around team productivity.
 
 ### Flex time
 
-Clear time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on
-another day (prior or subsequent).
+A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). Its important to communicate your away from Keyboard time to your teammates.
 
 > We trust that we'll make up our time in a timely manner
 
@@ -97,11 +92,7 @@ We have also invested in highly-adjustable, ergonomic Steelcase Gesture chairs f
 
 We take coffee pretty seriously (some of us more than others). Coffee beans and other accoutrement are supplied by the company. Feel free to drink any coffee that has been made, and to make more whenever your caffeine-deprived heart desires.
 
-Aside from coffee, we are also serious about stocking water, fizzy water, pop, and beer.
-
-You can track time while drinking, unless you're drinking margaritas with Jeff - that's definitely not billable.
-
-Grocery shopping is typically the responsibility of one person (Jeff). Let that person know what you'd like to have stocked in the fridge.
+Aside from coffee, we like to stock water, fizzy water, soda, and beer at the office. Currently, we don't reimburse non-coffee treats for remote employees, but we'd like to discuss this further as more of the team has shifted to working remotely.
 
 ## Remote Work
 
@@ -177,3 +168,25 @@ Our goal is to be prepared for client meetings 15 minutes before they begin, reg
 ### Remote Meetings
 
 We use [Zoom](https://zoom.us/) for remote meetings. You can sign-up and use Zoom for free with your Base Two email address. The free version works great for 1-1 video calls, but is limited to 40 minutes when there are multiple attendees. We have a paid account through info@base2.io, which is useful for client meetings. The password for the paid account can be found in the [credentials document](https://b2io.slack.com/archives/C904HLD5L/p1516982426000280).
+
+### Base Two Day
+
+Base Two Day is celebrated annually on August 26. It is the anniversary of the founding of Base Two. In the past, this day has been celebrated by hanging out, or participating in Hackathons. Tracking of what has been done on this day is now kept on the team's Google Drive. Discussions around this topic can be found on the [#side-quests](https://join.slack.com/share/zt-h7xz6k8g-FuetGuYYeuKYj34ukKptCg) Slack channel. Base Two Day is also a day when we try to remember to review the handbook!
+
+## We Use
+
+Every team member is welcome to choose their hardware, software, and development environment. In addition to Zoom for both internal and external meetings, and Harvest for time tracking, we use:
+
+- Slack for daily communication
+- Github for remote versioning control
+- Github Projects for project management
+- Google Suite for document storage and email.
+
+Team members recommend some of the following tools for personal workflow:
+
+- VSCode
+- Things3 for To Do list management
+- GIF Brewery 3 for screen recording
+- Kap for screen recording
+- Notablity for note-taking
+- Bear for markdown text writing
