@@ -24,6 +24,7 @@ One team member will be in charge of supervising the on-boarding process, making
   - Identify a project where you can shadow/pair with the team and get acclimated
   - Implement a feature/fix, go through the pull-request review process, make revisions as needed, and then ship the code to production
 - [Draft a blog post](https://b2io.slack.com/archives/C904HLD5L/p1516982569000357) (optional)
+- Review these onboarding processes after you are settled for feedback about your experience. Is there anything that you wish you knew or were confused about?
 
 ## On-boarding Supervisor
 
