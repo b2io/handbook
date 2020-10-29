@@ -55,7 +55,7 @@ Here are the high-level benefits of the plan (pulled from the [Summary of Benefi
 
 ### Dental
 
-Dental insurance is provided through Anthem Dental Prime, which can be managed at [Anthem Dental](https://www.anthem.com/wps/portal/ahpfooter?content_path=shared/noapplication/f1/s1/t1/pw_b145137.htm&label=Dental%2520Member%2520Services) (select the Dental Prime link).
+Dental insurance is provided through Anthem Dental Prime, which can be managed at [anthem.com](http://www.anthem.com).
 
 - Annual deductible: \$50
 - 100% coverage for preventive, diagnostic, and sealants
@@ -126,7 +126,7 @@ Civic responsibility is important, and employees are encouraged to exercise thei
 
 Saving for retirement is important, and Base Two's 401k plan provides a method to save with pre-tax money. To help with your savings Base Two contributes 3% of your salary to your Base Two 401k plan. This amount is a direct employer contribution rather than an incentive match. Therefore you are free to contribute any amount to your 401k plan without worrying about how it impacts the contribution from Base Two. There are many retirement investment vehicles out there, and we don't assume to know what's best for you.
 
-Your Base Two 401k is administered through ADP, and it can be managed at [www.mykplan.com](http://www.mykplan.com).
+Your Base Two 401k is administered through ADP, and it can be managed along with your payroll information at [myaccess.adp.com/](http://myaccess.adp.com/). ADP also provides a dedicate 401k site at [www.mykplan.com](http://www.mykplan.com).
 
 ## Hardware
 
