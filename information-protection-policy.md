@@ -1,12 +1,13 @@
 # Information Protection and Security Policy
+This policy is intended to protect the security and integrity of Base Two and its Clients' data and technology infrastructure.
 
 ## System and Network Security
 
-It is the responsibility of all Base Two employees to ensure that their machine has ant-virus, anti-malware, and firewall software installed and fully functional in addition to up-to-date software and security patches. HTTPS should be set as the default when navigating the web, and sensitive information should never be accessed or entered on websites that are not secure. Public WiFi should be avoided when possible, and when necessary the source of the WiFi should be confirmed with the establishment prior to connection.
+It is the responsibility of all Base Two employees to ensure that their machine has ant-virus, anti-malware, and firewall software installed and fully functional in addition to up-to-date software and security patches. In order to prevent unauthorized access, devices must be password protected, and the device must lock itself if it has been idle for 5 or more minutes. HTTPS should be set as the default when navigating the web, and sensitive information should never be accessed or entered on websites that are not secure. Public WiFi should be avoided when possible, and when necessary the source of the WiFi should be confirmed with the establishment prior to connection.
 
 ## Login and Passwords
 
-Passwords should be hard to ascertain or break by using multiple letters, cases, numbers, and symbols and/or be phrases or long acronyms. Passwords should never be stored or transmitted in an unencrypted manner (such as via paper, email, message, or in a digital document). Passwords should not be shared among users. When multi-factor authentication is available it should be used. In the event of a possible system or password compromise, passwords should be changed and a supervisor should be contacted immediately to ensure that the risks have been properly analysed and mitigated, and so that all impacted clients and parties can be notified within 24 hours.
+All passwords should be hard to ascertain or break by using multiple letters, cases, numbers, and symbols and/or be phrases or long acronyms. Passwords should never be stored or transmitted in an unencrypted manner (such as via paper, email, message, or in a digital document). Passwords should not be shared among users. When multi-factor authentication is available it should be used. In the event of a possible system or password compromise, passwords should be changed and a supervisor should be contacted immediately to ensure that the risks have been properly analysed and mitigated, and so that all impacted clients and parties can be notified within 24 hours.
 
 ## Destruction of Sensitive Information
 
