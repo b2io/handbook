@@ -3,7 +3,7 @@ This policy is intended to protect the security and integrity of Base Two and it
 
 ## System and Network Security
 
-It is the responsibility of all Base Two employees to ensure that their machine has ant-virus, anti-malware, and firewall software installed and fully functional in addition to up-to-date software and security patches. In order to prevent unauthorized access, devices must be password protected, and the device must lock itself if it has been idle for 5 or more minutes. HTTPS should be set as the default when navigating the web, and sensitive information should never be accessed or entered on websites that are not secure. Public WiFi should be avoided when possible, and when necessary the source of the WiFi should be confirmed with the establishment prior to connection.
+It is the responsibility of all Base Two employees to ensure that their machine has anti-virus, anti-malware, and firewall software installed and fully functional in addition to up-to-date software and security patches. In order to prevent unauthorized access, devices must be password protected, and the device must lock itself if it has been idle for 5 or more minutes. HTTPS should be set as the default when navigating the web, and sensitive information should never be accessed or entered on websites that are not secure. Public WiFi should be avoided when possible, and when necessary the source of the WiFi should be confirmed with the establishment prior to connection.
 
 ## Login and Passwords
 
