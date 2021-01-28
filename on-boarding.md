@@ -9,6 +9,7 @@ One team member will be in charge of supervising the on-boarding process, making
 ## New Hire First Week Activities
 
 - Complete the typical new-job paperwork (employment agreement, tax forms, emergency contact information, etc.). See [Employee On-boarding Checklist](https://b2io.slack.com/archives/C904HLD5L/p1516982459000227) for the full list
+- Review this handbook and our [Information Protection and Security Policy](information-protection-policy.md)
 - Get acquainted with the [Base Two process, tools, and workflow](https://github.com/b2io/development-standards)
 - Take some time to read through the documentation in the shared Google Drive folder
   - Full-time hires should add their preferred info to the [Business Cards document](https://b2io.slack.com/archives/C904HLD5L/p1516982505000182)
