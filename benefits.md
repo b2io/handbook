@@ -2,7 +2,7 @@
 
 We offer great benefits so that the **life** portion of work-life balance can be more enjoyable and a little less stressful.
 
-- [Free employee healthcare](#Health-Insurance) ([health](#health), [dental](#dental), and [vision](#vision))
+- [Free employee healthcare](#Health-Insurance) ([health](#health), [dental](#dental), [vision](#vision), and [Teladoc](#teladoc))
 - [Vacation](#vacation) - 15 days per year
 - [Holidays](#holidays) - 12 per year
 - [Sick](#sick) days as necessary
@@ -73,6 +73,19 @@ Vision insurance is provided through Anthem Blue View Vision, which can be manag
 - Lens once every 12 months
 - Up-to 40% off additional materials
 
+### Teladoc
+
+Since our work is remote-friendly we figured that our benefits should be too. In addition to our Anthem health insurance we also provide the [HealthiestYou Complete Bundle](https://teladochealth.com/resources/brochure/healthiestyou-complete-bundle/) through Teladoc. This plan, unrelated to Anthem, provides the following cost-free benefits to our employees and their dependents:
+
+- General Medical — Convenient, high-quality healthcare available 24/7 from U.S. board-certified doctors by phone or video.
+- Dermatology — U.S. board-certified dermatologists review images and provide a diagnosis and treatment plan. 
+- Neck and Back Care — Customized back care programs with videos and access to certified health coaches. 
+- Mental Health Care — Members have access to licensed mental health professionals, with the option to receive ongoing care from a provider of their choice
+- Expert Medical Services — In-depth reviews of existing diagnoses and treatment plans from the world’s leading experts.
+- Price Transparency Tools — Price-comparison engines help members make informed choices and save money on procedures and prescriptions.
+- Intelligent Alerts — Location-sensitive alerts delivering benefits reminders increase utilization of services.
+- Find a Provider — The HealthiestYou app can identify providers and facilities near the member’s current location.
+
 ## Vacation
 
 Employees are encouraged to take an average of 3 weeks (15 days) of vacation a year in order to take a break from work, travel, and come back feeling refreshed. Since nobody likes vacation day math, our vacation policy is flexible - there is no loss of vacation days or rollovers at the end of the year. With the flexible policy, if you took a couple of long weekends earlier in the year, and then you have the opportunity to take a 3 week European vacation - do it! We don't want you to miss out on opportunities.
@@ -126,7 +139,7 @@ Civic responsibility is important, and employees are encouraged to exercise thei
 
 Saving for retirement is important, and Base Two's 401k plan provides a method to save with pre-tax money. To help with your savings Base Two contributes 3% of your salary to your Base Two 401k plan. This amount is a direct employer contribution rather than an incentive match. Therefore you are free to contribute any amount to your 401k plan without worrying about how it impacts the contribution from Base Two. There are many retirement investment vehicles out there, and we don't assume to know what's best for you.
 
-Your Base Two 401k is administered through ADP, and it can be managed along with your payroll information at [myaccess.adp.com/](http://myaccess.adp.com/). ADP also provides a dedicate 401k site at [www.mykplan.com](http://www.mykplan.com).
+Your Base Two 401k is administered through [Guideline](https://www.guideline.com/), and it can be managed along with your payroll information through [Gusto](https://gusto.com/).
 
 ## Hardware
 
