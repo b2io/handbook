@@ -4,7 +4,7 @@ We offer great benefits so that the **life** portion of work-life balance can be
 
 - [Free employee healthcare](#Health-Insurance) ([health](#health), [dental](#dental), [vision](#vision), and [Teladoc](#teladoc))
 - [Vacation](#vacation) - 15 days per year
-- [Holidays](#holidays) - 12 per year
+- [Holidays](#holidays) - 13 per year
 - [Sick](#sick) days as necessary
 - [401k](#401k) - 3% automatic employer contribution
 - [Hardware](#hardware) - you choose
@@ -99,15 +99,16 @@ Base Two provides 12 paid holidays in which the Base Two office will be closed.
 1. New Year's Day (January 1st)
 2. Martin Luther King Day (3rd Monday in January)
 3. Presidents' Day (3rd Monday in February)
-4. Earth Day (April 22nd or nearest work day)
+4. Earth Day (April 22nd)
 5. Memorial Day (last Monday in May)
-6. Independence Day (4th of July)
-7. Labor Day (1st Monday in September)
-8. Veterans Day (November 11th)
-9. Thanksgiving (4th Thursday in November)
-10. Consumerism Day (day after Thanksgiving)
-11. Christmas Eve (December 24th)
-12. Christmas Day (December 25th)
+6. Juneteenth (June 19th)
+7. Independence Day (4th of July)
+8. Labor Day (1st Monday in September)
+9. Veterans Day (November 11th)
+10. Thanksgiving (4th Thursday in November)
+11. Consumerism Day (day after Thanksgiving)
+12. Christmas Eve (December 24th)
+13. Christmas Day (December 25th)
 
 If any of the holidays falls on a weekend, the closest weekday will be substituted.
 
