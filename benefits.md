@@ -78,8 +78,8 @@ Vision insurance is provided through Anthem Blue View Vision, which can be manag
 Since our work is remote-friendly we figured that our benefits should be too. In addition to our Anthem health insurance we also provide the [HealthiestYou Complete Bundle](https://teladochealth.com/resources/brochure/healthiestyou-complete-bundle/) through Teladoc. This plan, unrelated to Anthem, provides the following cost-free benefits to our employees and their dependents:
 
 - General Medical — Convenient, high-quality healthcare available 24/7 from U.S. board-certified doctors by phone or video.
-- Dermatology — U.S. board-certified dermatologists review images and provide a diagnosis and treatment plan. 
-- Neck and Back Care — Customized back care programs with videos and access to certified health coaches. 
+- Dermatology — U.S. board-certified dermatologists review images and provide a diagnosis and treatment plan.
+- Neck and Back Care — Customized back care programs with videos and access to certified health coaches.
 - Mental Health Care — Members have access to licensed mental health professionals, with the option to receive ongoing care from a provider of their choice
 - Expert Medical Services — In-depth reviews of existing diagnoses and treatment plans from the world’s leading experts.
 - Price Transparency Tools — Price-comparison engines help members make informed choices and save money on procedures and prescriptions.
@@ -94,7 +94,7 @@ When planning to take vacation time we ask that you include your anticipated out
 
 ## Holidays
 
-Base Two provides 12 paid holidays in which the Base Two office will be closed.
+Base Two provides 13 paid holidays in which the Base Two office will be closed.
 
 1. New Year's Day (January 1st)
 2. Martin Luther King Day (3rd Monday in January)
@@ -112,7 +112,7 @@ Base Two provides 12 paid holidays in which the Base Two office will be closed.
 
 If any of the holidays falls on a weekend, the closest weekday will be substituted.
 
-In addition to these 12 holidays we also close the office for Base Two Day. Base Two was founded on August 26, 2011. To celebrate the founding of our company we take a break from day-to-day work to do a fun activity as a group each August 26th (or nearest work day).
+In addition to these 13 holidays we also close the office for Base Two Day. Base Two was founded on August 26, 2011. To celebrate the founding of our company we take a break from day-to-day work to do a fun activity as a group each August 26th (or nearest work day).
 
 ## Sick
 
@@ -122,15 +122,15 @@ There is no sense in working through a cold. Stay home, take the day off, and fo
 
 ## Family Leave
 
-> We need to discuss this as a team. It would be great to provide a sizeable leave (paternity/maternity/family health issues), but we need to figure out how to reduce the financial impact ([issue #1](https://github.com/b2io/handbook/issues/1))
+> FMLA policy is currently under review [here](https://docs.google.com/document/d/17D9HrzaxjHW7keer-3s4IibPaxcQylMpBve549kNW6Q/edit?usp=sharing)
 
 ## Bereavement
 
-> Are there any allocations for Bereavement?
+> Under review with FMLA
 
 ## Jury Duty
 
-> Are there any allocations for Jury Duty?
+> Under review with FMLA
 
 ## Voting Leave
 
@@ -144,4 +144,4 @@ Your Base Two 401k is administered through [Guideline](https://www.guideline.com
 
 ## Hardware
 
-Our tools of the trade, be they computer, keyboard, mouse, monitors, etc., are used every day. To be happy and efficient it's important that these tools are great. How one defines "great" depends on the individual employee. Therefore Base Two does not have standard-issue equipment to hand new employees, but rather allows each employee to select the equipment that will work best for them. If it makes you happy and helps you do your work then it is worth it.
+Our tools of the trade, be they computer, keyboard, mouse, monitors, etc., are used every day. To be happy and efficient it's important that these tools are great. How one defines "great" depends on the individual employee. Therefore Base Two does not have standard-issue equipment to hand new employees, but rather allows each employee to select the equipment that will work best for them.

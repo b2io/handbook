@@ -46,7 +46,7 @@ Cost of living adjustments are applied each January based on the previous year's
 
 #### Raises
 
-If a team member believes that they (or any other member of the team) deserve a raise, then it should be brought up for discussion either in Buddy meetings, small groups, the Weekly Meeting, or whichever setting feels most comfortable. These discussions have tended to be informal in the past, and focus on the value and responsibilities that the team member provides.
+If a team member believes that they (or any other member of the team) deserve a raise, then it should be brought up for discussion either in one-on-one meetings, small groups, the Weekly Meeting, or whichever setting feels most comfortable. These discussions have tended to be informal in the past, and focus on the value and responsibilities that the team member provides.
 
 #### Conferences
 
@@ -66,7 +66,7 @@ This section lists things that have been tried, and are no longer policy. They c
 Through the Buddy System, employees were paired together in order to provide a support system. Buddy System documents are transparent and [available on the shared Drive](https://b2io.slack.com/archives/C904HLD5L/p1516982662000944).
 
 <strong>Donut meetings</strong>
-(Donut)[https://www.donut.com/?ref=slackdirectory] is a Slack bot that schedules 1:1 meetings on a regular interval with random teammates, the goal being to have informal conversations and chat with people that you might not be working with on a daily basis. This petered out because we're really busy. There had been interest in picking this back up, but that conversation turned into Lightening Talks.
+[Donut](https://www.donut.com/?ref=slackdirectory) is a Slack bot that schedules 1:1 meetings on a regular interval with random teammates, the goal being to have informal conversations and chat with people that you might not be working with on a daily basis. This petered out because we're really busy. There had been interest in picking this back up, but that conversation turned into Lightening Talks.
 
 <strong>Lightening Talks</strong>
-Implemented in late 2020, Lightening Talks are short(3-5 min) presentations given biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing).
+Implemented in late 2020, Lightening Talks are short (3-5 min) presentations given biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing).
