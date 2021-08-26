@@ -3,7 +3,7 @@
 ### It is dangerous to go alone. Take this.
 
 1. [Who we are](who-we-are.md)
-2. [On-boarding](on-boarding.md
+2. [On-boarding](on-boarding.md)
 3. [Day-to-day](day-to-day.md)
 4. [Benefits](benefits.md)
 5. [Business Development](business-development.md)
