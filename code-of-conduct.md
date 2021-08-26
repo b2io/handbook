@@ -63,4 +63,4 @@ Base Two will provide reasonable and fair accommodation to individuals with a ph
 
 This handbook serves as employee guideline, not as an employment contract.
 
-Employment with Base Two is "At-Will", however please see our [exiting policy]("./exiting.md") for more information.
+Employment with Base Two is "At-Will", however please see our [exiting policy](exiting.md) for more information.
