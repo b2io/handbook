@@ -22,7 +22,7 @@ Your work and activities may change day-to-day, but there are general expectatio
 
 We use [Harvest](https://b2io.harvestapp.com/) to track time.
 
-In order for us to fullfil our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is paramount when working with a team and for clients.
+In order for us to fullfil our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is expected when working with a team and for clients. If an employee is assigned to a client project, they are expected to follow the availability of the client.
 
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
@@ -35,7 +35,7 @@ In order for us to fullfil our obligations to clients and to best work with your
   you will be pleased)
 - When you're not doing client work, track to _Internal_
   - There are lots of buckets in Internal, check them out
-  - It gives you (and the team) insight into your past work
+  - This gives you (and the team) insight into your past work
 - Include details for client work. You do not have to go overboard, but if you are not tracking to a specific development task, try to explain what you spent your time doing.
 
 Try to have the day's hours in and rounded to the quarter hour by the end of the day. If we feel like we have a lot of billable work but aren't tracking a high number of billable hours, that
@@ -88,12 +88,6 @@ We have fancy Jarvis standing desks. Use the up and down arrows on the desk pane
 
 We have also invested in highly-adjustable, ergonomic Steelcase Gesture chairs for everyone (including remote coworkers).
 
-### Beverages
-
-We take coffee pretty seriously (some of us more than others). Coffee beans and other accoutrement are supplied by the company. Feel free to drink any coffee that has been made, and to make more whenever your caffeine-deprived heart desires.
-
-Aside from coffee, we like to stock water, fizzy water, soda, and beer at the office. Currently, we don't reimburse non-coffee treats for remote employees, but we'd like to discuss this further as more of the team has shifted to working remotely.
-
 ## Remote Work
 
 We want you to work wherever you are most comfortable and productive. We strive to make the office that comfortable and productive place, but depending on your personality, location, or responsibilities working elsewhere may make sense on some days or every day. Feel free to work from home, a coffee shop, co-working space, or wherever you feel is best suited for your work.
@@ -129,7 +123,7 @@ Definition of a good meeting:
 
 ### Weekly Meeting
 
-The entire team meets once a week for lunch (paid for by Base Two) to go over the state of the company. The meeting typically lasts about 1.5 hours. The agenda for each meeting is prepared that morning (in a shared Google Doc) and all team members are welcome to contribute. We cover any combination of the following (incomplete) list of topics:
+The entire team meets once a week to go over the state of the company. The meeting typically lasts about 1.5 hours. The agenda for each meeting is prepared that morning (in a shared Google Doc) and all team members are welcome to contribute. We cover any combination of the following (incomplete) list of topics:
 
 - Financials
   - Account balances
@@ -144,9 +138,8 @@ The entire team meets once a week for lunch (paid for by Base Two) to go over th
   - Profit sharing
 - Recruitment
 - Marketing
-  - Blog
-  - Social media
-- Team member updates
+  - Rebranding or updates to website
+- Team member scheduling updates
 - Shout-outs
 - Action Items
 
@@ -155,9 +148,7 @@ The entire team meets once a week for lunch (paid for by Base Two) to go over th
 Our quarterly meetings are an opportunity for the team to discuss and decide
 the trajectory of the company. We take an entire 8-hour day to delve deeper into
 topics that we don't have time to cover in weekly meetings. In the past we have
-discussed profit sharing, market rates, marketing, and hiring strategies. We
-spend part or most of the day offsite, typically at a restaurant. Kim ensures
-that we take breaks throughout the day.
+discussed profit sharing, market rates, marketing, and hiring strategies. These meetings are subject to the availability of staff and happen less frequently as the staff shifts to be located across the country.
 
 ### Client Meetings
 
@@ -179,14 +170,13 @@ Every team member is welcome to choose their hardware, software, and development
 
 - Slack for daily communication
 - Github for remote versioning control
-- Github Projects for project management
+- Jira for project management
 - Google Suite for document storage and email.
 
 Team members recommend some of the following tools for personal workflow:
 
 - VSCode
-- Things3 for To Do list management
+- Habitica for To Do list management
 - GIF Brewery 3 for screen recording
 - Kap for screen recording
-- Notablity for note-taking
-- Bear for markdown text writing
+- Google Sites for quick information sharing

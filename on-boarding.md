@@ -12,11 +12,11 @@ One team member will be in charge of supervising the on-boarding process, making
 - Review this handbook and our [Information Protection and Security Policy](information-protection-policy.md)
 - Get acquainted with the [Base Two process, tools, and workflow](https://github.com/b2io/development-standards)
 - Take some time to read through the documentation in the shared Google Drive folder
-  - Full-time hires should add their preferred info to the [Business Cards document](https://b2io.slack.com/archives/C904HLD5L/p1516982505000182)
+  - Full-time hires should add their preferred info to the [Employee Directory](https://docs.google.com/spreadsheets/d/1y-GuKTHc59Odhr40p1-0b49Nzfm1wxQhKJbna7nCGiI/edit?usp=sharing)
   - Check out the notes from the most recent [Weekly Meeting](https://b2io.slack.com/archives/C904HLD5L/p1516982531000575)
 - Scroll through Slack and see what we've been talking about lately
 - Add yourself to the [Base Two website](http://base2.io)
-  - Open up the [project board](https://github.com/b2io/base2.io/projects) for the Base Two website
+  - Open up the [project board](https://b2io.atlassian.net/jira/software/projects/B2/boards/7) for the Base Two website
   - Add a task such as "Add <name> to the website"
   - Assign yourself to it and move it to the "In Progress" column
   - Begin working on the task and track time to the base2.io Harvest project
@@ -29,7 +29,7 @@ One team member will be in charge of supervising the on-boarding process, making
 
 ## On-boarding Supervisor
 
-You are responsible for ensuring our newest team member has a smooth on-boarding experience.
+The on-boarding supervisor is responsible for ensuring our newest team member has a smooth on-boarding experience.
 
 ### Before Day One
 
