@@ -122,7 +122,7 @@ There is no sense in working through a cold. Stay home, take the day off, and fo
 
 ## Family Leave
 
-> FMLA policy is currently under review [here](https://docs.google.com/document/d/17D9HrzaxjHW7keer-3s4IibPaxcQylMpBve549kNW6Q/edit?usp=sharing)
+> FMLA policy is currently under review.
 
 ## Bereavement
 
