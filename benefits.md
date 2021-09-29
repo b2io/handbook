@@ -120,17 +120,30 @@ We all get sick. Some years are better than others, but we won't pretend to know
 
 There is no sense in working through a cold. Stay home, take the day off, and focus on getting better. We simply ask that you let the team know that you won't be working, and do what you can to put your co-workers in the best position to manage the work while you're out.
 
-## Family Leave
+## Family, Medical, and Extended Leave
 
-> FMLA policy is currently under review.
+Base Two recognizes the importance of life responsibilities and circumstances that would require an absence from employment, and will treat each instance on a per-case basis. We ask that you notify a supervisor or colleague of your intent to take extended leave as soon as you are aware, or at least 30 days before the event if possible.
 
-## Bereavement
+Base Two offers up to 12 weeks of paid leave. Each situation is different, and we ask that you develop a leave plan with your return date with a supervisor or the team.
 
-> Under review with FMLA
+#### Qualifying Events
 
-## Jury Duty
+- Medical Leave
+- Family Care
+- Parental Leave
+- ...other
 
-> Under review with FMLA
+#### Qualifying Terms
+
+Employment with Base Two for 12 consecutive months
+
+#### Other Leave
+
+Things come up. We have a flexible approach to how you take care of the things that you are responsible for. This includes kids being home sick from school, family emergencies, your pipes bursting, a global pandemic, or any other event that requires full-day and/or short-term care.
+
+Anything beyond short term care (as defined as less than one week of absence) will fall under this _Family, Medical, and Extended Leave_ policy and will require a leave plan to be discussed with a colleague. Please contact your team to alert them when you will not be in the office, and note this time on your timesheets.
+
+Other types of leave can include military leave, jury duty, bereavement, sabbatical, and more.
 
 ## Voting Leave
 
