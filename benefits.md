@@ -126,12 +126,11 @@ Base Two recognizes the importance of life responsibilities and circumstances th
 
 Base Two offers up to 12 weeks of paid leave. Each situation is different, and we ask that you develop a leave plan with your return date with a supervisor or the team.
 
-#### Qualifying Events
+#### Qualifying Event Examples
 
 - Medical Leave
 - Family Care
 - Parental Leave
-- ...other
 
 #### Qualifying Terms
 
@@ -143,9 +142,9 @@ Things come up. We have a flexible approach to how you take care of the things t
 
 Anything beyond short term care (as defined as less than one week of absence) will fall under this _Family, Medical, and Extended Leave_ policy and will require a leave plan to be discussed with a colleague. Please contact your team to alert them when you will not be in the office, and note this time on your timesheets.
 
-Other types of leave can include military leave, jury duty, bereavement, sabbatical, and more.
+Other types of leave can include military leave, jury duty, and bereavement.
 
-## Voting Leave
+## Voting
 
 Civic responsibility is important, and employees are encouraged to exercise their right to vote. If you need to leave during the work day to vote, please let your colleagues know.
 
