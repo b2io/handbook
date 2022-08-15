@@ -1,6 +1,6 @@
 # Who we are
 
-Base Two is a multi-city company of experienced developers working together to turn ideas into beautiful software. We work as individuals and teams with small and large companies — local and abroad — to improve processes around software development and deliver user-focused products and applications.
+Base Two is a multi-city company of experienced developers working together to create software that moves people. We work as individuals and teams with small and large companies — local and abroad — to improve processes around software development and deliver user-focused products and applications. We build software that helps real people solve real problems with greater ease through a flexible approach that prioritizes our clients and the end-user.
 
 We strive to be a forward-thinking and constantly improving collection of knowledgeable individuals. We work together to exceed what we could do alone. Openness, honesty, and empathy are the building blocks of our culture.
 
@@ -34,7 +34,7 @@ Career growth is facilitated and tracked. Individuals meet routinely with a team
 
 ### Honest and Open
 
-We operate in a very honest and collaborative manner. Everyone has the opportunity to voice their opinion on all company decisions - from the type of coffee we purchase to the appropriate salary for a potential hire. This sharing of information allows all employees to be equally informed so that we can make the best collaborative decisions as a company. With that, all employees have visibility into the company’s financials - including internally transparent salaries.
+We operate in a very honest and collaborative manner. Everyone has the opportunity to voice their opinion on all company decisions. This sharing of information allows all employees to be equally informed so that we can make the best collaborative decisions as a company. With that, all employees have visibility into the company’s financials - including internally transparent salaries.
 
 #### Transparency
 
@@ -46,7 +46,7 @@ Cost of living adjustments are applied each January based on the previous year's
 
 #### Raises
 
-If a team member believes that they (or any other member of the team) deserve a raise, then it should be brought up for discussion either in one-on-one meetings, small groups, the Weekly Meeting, or whichever setting feels most comfortable. These discussions have tended to be informal in the past, and focus on the value and responsibilities that the team member provides.
+Raises are considered on a case-by-case basis, and are always a consideration as employees move through their careers. We strive to be mindful and conscious of the career growth of all employees and do our best to compensate them accordingly.
 
 #### Conferences
 
@@ -68,5 +68,13 @@ Through the Buddy System, employees were paired together in order to provide a s
 <strong>Donut meetings</strong>
 [Donut](https://www.donut.com/?ref=slackdirectory) is a Slack bot that schedules 1:1 meetings on a regular interval with random teammates, the goal being to have informal conversations and chat with people that you might not be working with on a daily basis. This petered out because we're really busy. There had been interest in picking this back up, but that conversation turned into Lightening Talks.
 
+This section lists non-client based programs that are currently in place.
+
+<strong>Coffee Chat</strong>
+This is an optional daily zoom to give those who have time and interest a chance to say good morning, catch up, share their plans for the day, and in general reduce the feeling of being stuck on an at-home island. While no agenda or structure is needed, consider sharing your plan for the day (especially if it's non-billable) to gauge team interest and gather support.
+
 <strong>Lightening Talks</strong>
-Implemented in late 2020, Lightening Talks are short (3-5 min) presentations given biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing).
+Implemented in late 2020, Lightening Talks are short (3-5 min) presentations given biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing). Currently we do lightening talks during bi-monthly Friday lunches.
+
+<strong>Friday Lunches</strong>
+As our company grows and employees reside in different time zones, sometimes making a 9:00AM ET coffee chat meeting is not feasible. Twice a month, we have a calendar allotment for an optional collegue lunch. Empl;oyees are welcome to bring some food and have a casual chat, often times focused on an informal Lightening Talk topic.
