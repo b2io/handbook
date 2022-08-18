@@ -1,6 +1,6 @@
 # Hiring Process
 
-We strive to be intentional in our hiring process. We believe very strongly in the role of a responsible, local business to fully represent the demographics of their community. This takes time and effort on our part to grow a more diverse network and we are actively taking measures to ensure that this is the case.
+We strive to be intentional in our hiring process. We believe very strongly in the role of a responsible business to fully represent the demographics of their community. This takes time and effort on our part to grow a more diverse network and we are actively taking measures to ensure that this is the case.
 
 As we review candidates for both full time developer positions we consider, in depth, our current team and pipeline. What is the current makeup of our teams, where are we allocated, what are our strengths and weaknesses, and what skills besides and beyond development do we need the most.
 
