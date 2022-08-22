@@ -177,7 +177,7 @@ Base Two Day is celebrated annually on August 26. It is the anniversary of the f
 Every team member is welcome to choose their hardware, software, and development environment. In addition to Zoom for both internal and external meetings, and Harvest for time tracking, we use:
 
 - Slack: daily communication
-- Github: remote versioning control
+- Github: remote version control
 - Jira: project management
 - Google Suite: document storage and email
 - Know Your Team: 1 on 1 meetings
