@@ -74,7 +74,7 @@ This section lists non-client based programs that are currently in place.
 This is an optional daily zoom to give those who have time and interest a chance to say good morning, catch up, share their plans for the day, and in general reduce the feeling of being stuck on an at-home island. While no agenda or structure is needed, consider sharing your plan for the day (especially if it's non-billable) to gauge team interest and gather support.
 
 <strong>Lightening Talks</strong>
-Implemented in late 2020, Lightening Talks are short (3-5 min) presentations given biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing). Currently we do lightening talks during bi-monthly Friday lunches.
+Implemented in late 2020, Lightening Talks are short (5-15 min) presentations team members have the opportunity to give biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing). Currently we do lightening talks during bi-monthly Friday lunches.
 
 <strong>Friday Lunches</strong>
 As our company grows and employees reside in different time zones, sometimes making a 9:00AM ET coffee chat meeting is not feasible. Twice a month, we have a calendar allotment for an optional collegue lunch. Empl;oyees are welcome to bring some food and have a casual chat, often times focused on an informal Lightening Talk topic.
