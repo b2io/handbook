@@ -4,11 +4,11 @@ Openness, honesty, and empathy are the building blocks of our culture. Being exc
 
 ## Dress Code
 
-Base Two does not have specific rules regarding appropriate dress. There may be circumstances where employee needs to adhere to the dress regulations of a client company.
+Base Two does not have specific rules regarding appropriate dress. It is reccommended that employees do their best to adhere to the general dress regulations of a client company, even if they are just meeting virtually.
 
 ## Drug and Alcohol Policy
 
-While Base Two does not have specific policy related to drugs and alcohol, we ask that employees use good judgment and never indulge in a way that leads to impaired performance or inappropriate behavior, endangers the safety of others, or violates the law. There may be circumstances in which an employee may be required to adhere to the drug and alcohol policy of a client company.
+We ask that employees use good judgment and never indulge in a way that leads to impaired performance or inappropriate behavior, endangers the safety of others, or violates the law. There may be circumstances in which an employee may be required to adhere to the drug and alcohol policy of a client company.
 
 ## Acceptable Use of Company Hardware and Internet
 
@@ -46,6 +46,7 @@ Examples of behavior that may result in disciplinary action, including possible 
 - Unwelcome sexual attention
 - Reporting for work under the influence of illegal drugs
 - Bringing a weapon into the workplace
+- Absences that have not been communicated to at least one other team member
 
 ## Confidentiality
 

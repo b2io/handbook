@@ -41,6 +41,14 @@ In order for us to fullfil our obligations to clients and to best work with your
 Try to have the day's hours in and rounded to the quarter hour by the end of the day. If we feel like we have a lot of billable work but aren't tracking a high number of billable hours, that
 will likely trigger a conversation around team productivity.
 
+### Time off requests
+
+We use Forecast to request time off. We rely on individuals to alert the rest of the team when they will have absences in a timely manner and in respect of their workload. It is also up to individual employees to adhere to the time off policies of their active client, in terms of communication and tracking.
+
+There is a section of our weekly meeting where you have an opportunity to discuss your time off with the team. It is beneficial that you also keep your work calendar up to date if you plan to be out.
+
+Please also track your time out in Harvest.
+
 ### Flex time
 
 A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). Its important to communicate your away from Keyboard time to your teammates.
@@ -168,15 +176,18 @@ Base Two Day is celebrated annually on August 26. It is the anniversary of the f
 
 Every team member is welcome to choose their hardware, software, and development environment. In addition to Zoom for both internal and external meetings, and Harvest for time tracking, we use:
 
-- Slack for daily communication
-- Github for remote versioning control
-- Jira for project management
-- Google Suite for document storage and email.
+- Slack: daily communication
+- Github: remote version control
+- Jira: project management
+- Google Suite: document storage and email
+- Know Your Team: 1 on 1 meetings
 
 Team members recommend some of the following tools for personal workflow:
 
-- VSCode
-- Habitica for To Do list management
-- GIF Brewery 3 for screen recording
-- Kap for screen recording
-- Google Sites for quick information sharing
+- VSCode: IDE
+- Habitica: To Do list management
+- GIF Brewery 3: screen recording
+- Kap: screen recording
+- Google Sites: quick information sharing
+- iTerm 2: terminal
+- Oh My Zsh: git configuration management
