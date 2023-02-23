@@ -157,3 +157,9 @@ Your Base Two 401k is administered through [Guideline](https://www.guideline.com
 ## Hardware
 
 Our tools of the trade, be they computer, keyboard, mouse, monitors, etc., are used every day. To be happy and efficient it's important that these tools are great. How one defines "great" depends on the individual employee. Therefore Base Two does not have standard-issue equipment to hand new employees, but rather allows each employee to select the equipment that will work best for them.
+
+- An initial $3,000 budget on being hired is provided to cover your basic needs to get the job done e.g. computer and peripherals.
+  - If your device fails or otherwise has issues resulting in you needing a new device, we will provide a suitable replacement.
+- On your one year anniversary an additional $2,000 is provided to allow you to upgrade your home office environment as you see fit, e.g. standing desk and comfy chair.
+- Every following year an additional $500 is made available on your work anniversary (beginning in 2023), rolling over to a maximum of $2,000.
+  - This budget is generally available for any equipment needs but the purchase in question should still be considered “expensable”.
