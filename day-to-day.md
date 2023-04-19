@@ -51,9 +51,21 @@ Please also track your time out in Harvest.
 
 ### Flex time
 
-A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). Its important to communicate your away from Keyboard time to your teammates.
+A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). It's important to communicate to your teammates when you'll be away from the keyboard.
 
 > We trust that we'll make up our time in a timely manner
+
+### Professional Development
+
+Self-improvement is important, especially to help achieve personal goals for growth in our industry. Sometimes, we'll be on a project that doesn't directly nurture those goals. If you have urgent concerns about your current project, please let a teammate know so that we can work to [shift you to a new project](./project-placement.md).
+
+That said, often our projects allow for enough flexibility to carve out time to pursue our other goals. This is where Professional Development time comes in!
+
+**If your project's circumstances allow for it, we support 5+ hours of Professional Development time every week.** This time should be used on a daily or weekly basis so that you're still available on your primary project, rather than being pooled and used once a year. This policy is open to discussion, though, so please start a conversation if you have something that you're hoping to pursue that doesn't fit into these constraints. We'll work with you to find a solution that works for everyone.
+
+Sharing is caring ❤️ We encourage you to talk to others about your Professional Development. Your personal growth could be opportunities for more of the team to grow as well. Please share what you're working on in Slack or in our weekly meetings so that other team members might be inspired to join in your journey. Collaboration is one of our greatest strengths at Base Two.
+
+We occasionally have [lightning talks](./glossary.md#lightning-talks) over lunch on Fridays. This is a great way to share some of the things you've learned. Organizing and presenting knowledge is often a helpful way to reinforce the knowledge as well.
 
 ## Making Purchases
 

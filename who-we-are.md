@@ -26,9 +26,9 @@ We work within an industry that is constantly changing and where it is impossibl
 
 We promote a company culture that appreciates collaborative professional growth. Our code is constantly being peer reviewed by other employees via the pull request process. This process not only allows us to catch common mistakes, but it also acts as an opportunity for discussion about varying coding styles and best practices.
 
-We typically work on smaller 2-6 month projects that use forward-leaning technologies. This allows our team to gain experience with the latest technologies in different industries. For projects that have longer durations we attempt to rotate team members so that the work does not feel stale, and so that more of the team has experience with any given project.
+We typically work on smaller 2-6 month projects that use forward-leaning technologies. This allows our team to gain experience with the latest technologies in different industries. For projects that have longer durations, we attempt to rotate team members so that the work does not feel stale, and so that more of the team has experience with any given project.
 
-In addition we also provide access to online training opportunities and sponsor employee attendance at various technical conferences. We encourage community involvement through technical meetups and open source contributions.
+In addition, we also provide access to online training opportunities and sponsor employee attendance at various technical conferences. We encourage community involvement through technical meetups and open source contributions. We support some work hours being devoted to [professional development](./day-to-day.md#professional-development)
 
 Career growth is facilitated and tracked. Individuals meet routinely with a team member to discuss career goals, track goal progress, and discuss feedback. Our flat hierarchy means that no one has a direct manager. We are accountable to, and advocate for each other.
 
