@@ -22,7 +22,7 @@ Your work and activities may change day-to-day, but there are general expectatio
 
 We use [Harvest](https://b2io.harvestapp.com/) to track time.
 
-In order for us to fullfil our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is expected when working with a team and for clients. If an employee is assigned to a client project, they are expected to follow the availability of the client.
+In order for us to fulfill our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is expected when working with a team and for clients. If an employee is assigned to a client project, they are expected to follow the availability of the client.
 
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
@@ -61,7 +61,11 @@ Self-improvement is important, especially to help achieve personal goals for gro
 
 That said, often our projects allow for enough flexibility to carve out time to pursue our other goals. This is where Professional Development time comes in!
 
-**If your project's circumstances allow for it, we support 5+ hours of Professional Development time every week.** This time should be used on a daily or weekly basis so that you're still available on your primary project, rather than being pooled and used once a year. This policy is open to discussion, though, so please start a conversation if you have something that you're hoping to pursue that doesn't fit into these constraints. We'll work with you to find a solution that works for everyone.
+If you're interested in pursuing professional development, please make a copy of [this document](https://docs.google.com/document/d/1ZBVmHEL0nc6lzJRV2Q9AcM90Euq3q1YYsmkZDGWYHGA/edit), and fill it out to review with a supervisor.
+
+There is also a [`#professional-development`](https://b2io.slack.com/archives/C018LDLHC5A) Slack channel for general discussion.
+
+Please keep in mind that our Professional Development process is open to improvement, so please start a conversation if you have something that you're hoping to pursue that doesn't seem to fit with the current process. We'll work with you to find a solution that works for everyone.
 
 Sharing is caring ❤️ We encourage you to talk to others about your Professional Development. Your personal growth could be opportunities for more of the team to grow as well. Please share what you're working on in Slack or in our weekly meetings so that other team members might be inspired to join in your journey. Collaboration is one of our greatest strengths at Base Two.
 
