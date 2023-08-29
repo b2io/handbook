@@ -22,7 +22,7 @@ Your work and activities may change day-to-day, but there are general expectatio
 
 We use [Harvest](https://b2io.harvestapp.com/) to track time.
 
-In order for us to fullfil our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is expected when working with a team and for clients. If an employee is assigned to a client project, they are expected to follow the availability of the client.
+In order for us to fulfill our obligations to clients and to best work with your team, we ask that you are present at predictable times. Our benchmark number is 40 tracked hours, and we operate in good faith that we are doing the best we can for the company without burning out. However, if you are not meeting expectations for reliable time tracking or attendance, another teammate will reach out to you to ask if the issues impeding reliability are fixable. We don't expect you to be logged in from 9-5, but appropriate and reliable communication is expected when working with a team and for clients. If an employee is assigned to a client project, they are expected to follow the availability of the client.
 
 - Not sure what to track to? Ask! (Seriously.)
 - We round up or down to the nearest quarter hour to streamline our billing process
@@ -51,9 +51,25 @@ Please also track your time out in Harvest.
 
 ### Flex time
 
-A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). Its important to communicate your away from Keyboard time to your teammates.
+A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). It's important to communicate to your teammates when you'll be away from the keyboard.
 
 > We trust that we'll make up our time in a timely manner
+
+### Professional Development
+
+Self-improvement is important, especially to help achieve personal goals for growth in our industry. Sometimes, we'll be on a project that doesn't directly nurture those goals. If you have urgent concerns about your current project, please let a teammate know so that we can work to [shift you to a new project](./project-placement.md).
+
+That said, often our projects allow for enough flexibility to carve out time to pursue our other goals. This is where Professional Development time comes in!
+
+If you're interested in pursuing professional development, please make a copy of [this document](https://docs.google.com/document/d/1ZBVmHEL0nc6lzJRV2Q9AcM90Euq3q1YYsmkZDGWYHGA/edit), and fill it out to review with a supervisor.
+
+There is also a [`#professional-development`](https://b2io.slack.com/archives/C018LDLHC5A) Slack channel for general discussion.
+
+Please keep in mind that our Professional Development process is open to improvement, so please start a conversation if you have something that you're hoping to pursue that doesn't seem to fit with the current process. We'll work with you to find a solution that works for everyone.
+
+Sharing is caring ❤️ We encourage you to talk to others about your Professional Development. Your personal growth could be opportunities for more of the team to grow as well. Please share what you're working on in Slack or in our weekly meetings so that other team members might be inspired to join in your journey. Collaboration is one of our greatest strengths at Base Two.
+
+We occasionally have [lightning talks](./glossary.md#lightning-talks) over lunch on Fridays. This is a great way to share some of the things you've learned. Organizing and presenting knowledge is often a helpful way to reinforce the knowledge as well.
 
 ## Making Purchases
 
