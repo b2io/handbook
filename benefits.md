@@ -90,7 +90,7 @@ Since our work is remote-friendly we figured that our benefits should be too. In
 
 Employees are encouraged to take an average of 3 weeks (15 days) of vacation a year in order to take a break from work, travel, and come back feeling refreshed. Since nobody likes vacation day math, our vacation policy is flexible - there is no loss of vacation days or rollovers at the end of the year. With the flexible policy, if you took a couple of long weekends earlier in the year, and then you have the opportunity to take a 3 week European vacation - do it! We don't want you to miss out on opportunities.
 
-When planning to take vacation time we ask that you include your anticipated out of office days to [Forecast](https://forecastapp.com/715825/schedule/team), as well as to your Base Two calendar, and let the team and your active clients know of your plans. Also, as your time off approaches please remind both the Base Two team and your active clients.
+When planning to take vacation time we ask that you include your anticipated out of office days on our weekly meeting agenda, as well as to your Base Two calendar. Make sure to let the team and your active clients know of your plans. Also, as your time off approaches please remind both the Base Two team and your active clients.
 
 ## Holidays
 
@@ -140,7 +140,7 @@ Employment with Base Two for 12 consecutive months
 
 Things come up. We have a flexible approach to how you take care of the things that you are responsible for. This includes kids being home sick from school, family emergencies, your pipes bursting, a global pandemic, or any other event that requires full-day and/or short-term care.
 
-Anything beyond short term care (as defined as less than one week of absence) will fall under this _Family, Medical, and Extended Leave_ policy and will require a leave plan to be discussed with a colleague. Please contact your team to alert them when you will not be in the office, and note this time on your timesheets.
+Anything beyond short term care (as defined as less than one week of absence) will fall under the _Family, Medical, and Extended Leave_ policy and will require a leave plan to be discussed with a colleague. Please contact your team to alert them when you will not be in the office, and note this time on your timesheets.
 
 Other types of leave can include military leave, jury duty, and bereavement.
 
