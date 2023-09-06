@@ -58,23 +58,42 @@ As referenced earlier, employees are encouraged to keep up-to-date in the indust
 - [React Finland](https://react-finland.fi/)
 - [Drupal Gov Con](https://www.drupalgovcon.org/)
 
-#### History of Programs
+## History of Programs
 
-This section lists things that have been tried, and are no longer policy. They can be revisited at any time.
+This section lists things that have been tried, and some that are no longer engaged. They can be revisited at any time.
 
-<strong>Buddy System</strong>
+### Buddy System
+
+<sup>_*inactive*_</sup>
+
 Through the Buddy System, employees were paired together in order to provide a support system. Buddy System documents are transparent and [available on the shared Drive](https://b2io.slack.com/archives/C904HLD5L/p1516982662000944).
 
-<strong>Donut meetings</strong>
+### Donut meetings
+
+<sup>_*inactive*_</sup>
+
 [Donut](https://www.donut.com/?ref=slackdirectory) is a Slack bot that schedules 1:1 meetings on a regular interval with random teammates, the goal being to have informal conversations and chat with people that you might not be working with on a daily basis. This petered out because we're really busy. There had been interest in picking this back up, but that conversation turned into Lightening Talks.
 
 This section lists non-client based programs that are currently in place.
 
-<strong>Coffee Chat</strong>
+### Coffee Chat
+
+<sup>_*inactive*_</sup>
+
 This is an optional daily zoom to give those who have time and interest a chance to say good morning, catch up, share their plans for the day, and in general reduce the feeling of being stuck on an at-home island. While no agenda or structure is needed, consider sharing your plan for the day (especially if it's non-billable) to gauge team interest and gather support.
 
-<strong>Lightening Talks</strong>
+### Lightening Talks
+
 Implemented in late 2020, Lightening Talks are short (5-15 min) presentations team members have the opportunity to give biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing). Currently we do lightening talks during bi-monthly Friday lunches.
 
-<strong>Friday Lunches</strong>
+### Friday Lunches
+
 As our company grows and employees reside in different time zones, sometimes making a 9:00AM ET coffee chat meeting is not feasible. Twice a month, we have a calendar allotment for an optional colleague lunch. Employees are welcome to bring some food and have a casual chat, often times focused on an informal Lightening Talk topic.
+
+### Know Your team
+
+This product is used for people-management: to schedule 1:1s, facilitate shout-outs, and provide a platform for self-reflection.
+
+### Professional Development Program
+
+Please see the section about the [Professional Development Program](./day-to-day.md#professional-development) for more details
