@@ -11,4 +11,3 @@
 7. [Code of Conduct](code-of-conduct.md)
 8. [Information Protection and Security Policy](information-protection-policy.md)
 9. [Exiting](exiting.md)
-10. [Glossary](glossary.md)
