@@ -24,7 +24,6 @@ One team member will be in charge of supervising the on-boarding process, making
 - Get some experience with an ongoing project:
   - Identify a project where you can shadow/pair with the team and get acclimated
   - Implement a feature/fix, go through the pull-request review process, make revisions as needed, and then ship the code to production
-- [Draft a blog post](https://b2io.slack.com/archives/C904HLD5L/p1516982569000357) (optional)
 - Review these onboarding processes after you are settled for feedback about your experience. Is there anything that you wish you knew or were confused about?
 
 ## On-boarding Supervisor
@@ -34,22 +33,20 @@ The on-boarding supervisor is responsible for ensuring our newest team member ha
 ### Before Day One
 
 - Give them day-one details:
-  - Where to go
-  - When they should arrive
-  - When they can leave
-  - That lunch will be provided on Day One
+  - When to log on
+  - When they can call it a day
+  - That lunch will be provided on Day One (to test out the expensing process once they start!)
   - What documentation to bring (see [checklist](https://b2io.slack.com/archives/C904HLD5L/p1516982459000227))
   - What they'll be doing
-- Give them your contact information (cell phone number is helpful if they need help finding the location)
 - Prep on-boarding paperwork and update [on-boarding checklist](https://b2io.slack.com/archives/C904HLD5L/p1516982459000227) if necessary
-- Procure a machine for them
+- Ask them to select a machine and order it so that it arrives on the first scheduled day
 - Schedule a "Just Checking" In 1-on-1 for yourself and the new hire at the one-month and two-month marks to discuss how things are progressing
 
 ### On Day One
 
 - Arrive 15-30 minutes earlier than the designated start time
-- Provide a set of office keys (if applicable)
-- Give them their machine
+- Help them to set up their development environment if needed
+- Set up a meeting with them for the majority of the morning to go through the new hire [first week activities](#new-hire-first-week-activities).
 
 ### After Day One
 
