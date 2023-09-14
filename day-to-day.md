@@ -38,20 +38,19 @@ In order for us to fulfill our obligations to clients and to best work with your
   - This gives you (and the team) insight into your past work
 - Include details for client work. You do not have to go overboard, but if you are not tracking to a specific development task, try to explain what you spent your time doing.
 
-Try to have the day's hours in and rounded to the quarter hour by the end of the day. If we feel like we have a lot of billable work but aren't tracking a high number of billable hours, that
-will likely trigger a conversation around team productivity.
+Try to have the day's hours in and rounded to the quarter hour by the end of the day. If we feel like we have a lot of billable work but aren't tracking a high number of billable hours, that will likely trigger a conversation around team productivity.
 
 ### Time off requests
 
-We use Forecast to request time off. We rely on individuals to alert the rest of the team when they will have absences in a timely manner and in respect of their workload. It is also up to individual employees to adhere to the time off policies of their active client, in terms of communication and tracking.
+We communicate time off during our weekly meetings. We rely on individuals to alert the rest of the team when they will have absences in a timely manner and in respect of their workload. It is also up to individual employees to adhere to the time off policies of their active client, in terms of communication and forecasting.
 
-There is a section of our weekly meeting where you have an opportunity to discuss your time off with the team. It is beneficial that you also keep your work calendar up to date if you plan to be out.
+During our weekly meetings, you have the opportunity to discuss time off with the team if needed. It is beneficial that you also keep your work calendar up to date if you plan to be out.
 
-Please also track your time out in Harvest.
+Sometimes our plans don't sync up with reality. Please also track your used time out in Harvest.
 
 ### Flex time
 
-A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). It's important to communicate to your teammates when you'll be away from the keyboard.
+A clear system for time tracking allows for a flexible work schedule without feeling guilty. This allows you to mold your work hours to better fit your personal schedule. For example, if you need to get a haircut, and the best time to schedule that is 2pm on a Thursday, you can make up the hour you miss on another day (prior or subsequent). It's important to communicate to your teammates when you'll be away from the keyboard during standard business hours.
 
 > We trust that we'll make up our time in a timely manner
 
@@ -108,15 +107,11 @@ _**Note:** Expenses should be submitted within two weeks so that we can better t
 
 There are many ways to enter our Columbus office. If you encounter a keypad at any point, you will find [this document](https://b2io.slack.com/archives/C904HLD5L/p1516982371000264) helpful.
 
-We have fancy Jarvis standing desks. Use the up and down arrows on the desk panel to adjust the height. You can save up to 4 presets by adjusting the desk to the desired height and pressing the M button followed by a numbered button.
-
-We have also invested in highly-adjustable, ergonomic Steelcase Gesture chairs for everyone (including remote coworkers).
-
 ## Remote Work
 
 We want you to work wherever you are most comfortable and productive. We strive to make the office that comfortable and productive place, but depending on your personality, location, or responsibilities working elsewhere may make sense on some days or every day. Feel free to work from home, a coffee shop, co-working space, or wherever you feel is best suited for your work.
 
-When working remote please keep the following in mind:
+When working in a space different from your typical remote workspace, please keep the following in mind:
 
 - Communicate your plans with the team so that everybody has shared expectations
 - Use best judgement on choice of communication medium: email, Slack, video call / Zoom, or phone call
@@ -164,15 +159,16 @@ The entire team meets once a week to go over the state of the company. The meeti
 - Marketing
   - Rebranding or updates to website
 - Team member scheduling updates
+- Shout-ats
 - Shout-outs
 - Action Items
 
-### Quarterly Meetings
+### Retreats
 
-Our quarterly meetings are an opportunity for the team to discuss and decide
+Retreats are an opportunity for the team to meet in real life to discuss and decide
 the trajectory of the company. We take an entire 8-hour day to delve deeper into
 topics that we don't have time to cover in weekly meetings. In the past we have
-discussed profit sharing, market rates, marketing, and hiring strategies. These meetings are subject to the availability of staff and happen less frequently as the staff shifts to be located across the country.
+discussed profit sharing, market rates, marketing, and hiring strategies. Due to our workload, it's not generally possible to meet every year. We do try to prioritize in-person meetings as our client load and personal schedules allow.
 
 ### Client Meetings
 
@@ -184,9 +180,13 @@ Our goal is to be prepared for client meetings 15 minutes before they begin, reg
 
 We use [Zoom](https://zoom.us/) for remote meetings. You can sign-up and use Zoom for free with your Base Two email address. The free version works great for 1-1 video calls, but is limited to 40 minutes when there are multiple attendees. We have a paid account through info@base2.io, which is useful for client meetings. The password for the paid account can be found in the [credentials document](https://b2io.slack.com/archives/C904HLD5L/p1516982426000280).
 
+We also use Google Meet for both internal and client meetings. Google Meet integrates with your Base Two Google Calendar, and you should not have to download any external software to use it.
+
+Base Two is on a professional Slack plan, and Slack Huddles are a third option for remote meetings. To huddle, you must have a paid Slack Connection contract with your collegue, so huddles with clients aren't always feasible. However, Huddles are a great option for quick internal meetings.
+
 ### Base Two Day
 
-Base Two Day is celebrated annually on August 26. It is the anniversary of the founding of Base Two. In the past, this day has been celebrated by hanging out, or participating in Hackathons. Tracking of what has been done on this day is now kept on the team's Google Drive. Discussions around this topic can be found on the [#side-quests](https://join.slack.com/share/zt-h7xz6k8g-FuetGuYYeuKYj34ukKptCg) Slack channel. Base Two Day is also a day when we try to remember to review the handbook!
+Base Two Day is celebrated annually on August 26. It is the anniversary of the founding of Base Two. In the past, this day has been celebrated by hanging out, or participating in Hackathons. Tracking of what has been done on this day is now kept on the team's Google Drive. Base Two Day is also a day when we try to remember to review the handbook!
 
 ## We Use
 
@@ -201,9 +201,6 @@ Every team member is welcome to choose their hardware, software, and development
 Team members recommend some of the following tools for personal workflow:
 
 - VSCode: IDE
-- Habitica: To Do list management
-- GIF Brewery 3: screen recording
-- Kap: screen recording
 - Google Sites: quick information sharing
 - iTerm 2: terminal
 - Oh My Zsh: git configuration management
