@@ -45,7 +45,7 @@ The on-boarding supervisor is responsible for ensuring our newest team member ha
 ### On Day One
 
 - Arrive 15-30 minutes earlier than the designated start time
-- Help them to set up their dev environment if needed
+- Help them to set up their development environment if needed
 - Set up a meeting with them for the majority of the morning to go through the new hire [first week activities](#new-hire-first-week-activities).
 
 ### After Day One
