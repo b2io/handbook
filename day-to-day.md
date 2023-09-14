@@ -168,7 +168,7 @@ The entire team meets once a week to go over the state of the company. The meeti
 Retreats are an opportunity for the team to meet in real life to discuss and decide
 the trajectory of the company. We take an entire 8-hour day to delve deeper into
 topics that we don't have time to cover in weekly meetings. In the past we have
-discussed profit sharing, market rates, marketing, and hiring strategies. Due to our workload, it's not generally possible to meet every single year. We do try to prioritize in-person meetings as our client load and personal schedules allow.
+discussed profit sharing, market rates, marketing, and hiring strategies. Due to our workload, it's not generally possible to meet every year. We do try to prioritize in-person meetings as our client load and personal schedules allow.
 
 ### Client Meetings
 
