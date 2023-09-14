@@ -35,7 +35,7 @@ The on-boarding supervisor is responsible for ensuring our newest team member ha
 - Give them day-one details:
   - When to log on
   - When they can call it a day
-  - That lunch will be provided on Day One (test out the expensing process once they start!)
+  - That lunch will be provided on Day One (to test out the expensing process once they start!)
   - What documentation to bring (see [checklist](https://b2io.slack.com/archives/C904HLD5L/p1516982459000227))
   - What they'll be doing
 - Prep on-boarding paperwork and update [on-boarding checklist](https://b2io.slack.com/archives/C904HLD5L/p1516982459000227) if necessary
