@@ -38,4 +38,4 @@ We keep track of submissions made via the [jobs page](http://base2.io/jobs) on o
 
 We start by having a few members of the team meet a candidate, and then follow up with a whole-team meeting. In both meetings, candidates are welcome to ask questions and get a feel for the team environment. We make this handbook available publicly in part so that candidates can get a clear picture of our company during the interview process.
 
-Offers are typically made via email. We try and be as explicit as possible about compensation, benefits, expectations, etc. We're not into hardball negotiating; we make sincere offers based on the best information we have.
+Offers are typically made via email. We try to be as explicit as possible about compensation, benefits, expectations, etc. We're not into hardball negotiating; we make sincere offers based on the best information we have.
