@@ -42,7 +42,7 @@ Base Two is an internally transparent company. We make the majority of decisions
 
 #### Cost of Living Adjustments
 
-Cost of living adjustments are applied each January based on the previous year's [Social Security COLA](https://www.ssa.gov/oact/cola/colaseries.html). The adjustment applies to all full-time employees as of 12/31 of the previous year.
+Cost of living adjustments are applied each January based on the previous year's [Social Security COLA](https://www.ssa.gov/oact/cola/colaseries.html) value. The adjustment applies to all full-time employees as of 12/31 of the previous year. To ensure the financial stability of the company through economic uncertainty the COLA increase will be limited to maximum of 5% for any given year, with the difference that exceeds the 5% cap carrying over to the next year. Salaries will not be reduced in the case of a negative COLA value. The negative value will be held in reserve to offset future COLA increases. 
 
 #### Raises
 
