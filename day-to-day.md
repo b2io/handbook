@@ -58,18 +58,6 @@ A clear system for time tracking allows for a flexible work schedule without fee
 
 Self-improvement is important, especially to help achieve personal goals for growth in our industry. Sometimes, we'll be on a project that doesn't directly nurture those goals. If you have urgent concerns about your current project, please let a teammate know so that we can work to [shift you to a new project](./project-placement.md).
 
-That said, often our projects allow for enough flexibility to carve out time to pursue our other goals. This is where Professional Development time comes in!
-
-If you're interested in pursuing professional development, please make a copy of [this document](https://docs.google.com/document/d/1ZBVmHEL0nc6lzJRV2Q9AcM90Euq3q1YYsmkZDGWYHGA/edit), and fill it out to review with a supervisor.
-
-There is also a [`#professional-development`](https://b2io.slack.com/archives/C018LDLHC5A) Slack channel for general discussion.
-
-Please keep in mind that our Professional Development process is open to improvement, so please start a conversation if you have something that you're hoping to pursue that doesn't seem to fit with the current process. We'll work with you to find a solution that works for everyone.
-
-Sharing is caring ❤️ We encourage you to talk to others about your Professional Development. Your personal growth could be opportunities for more of the team to grow as well. Please share what you're working on in Slack or in our weekly meetings so that other team members might be inspired to join in your journey. Collaboration is one of our greatest strengths at Base Two.
-
-We occasionally have [lightning talks](./glossary.md#lightning-talks) over lunch on Fridays. This is a great way to share some of the things you've learned. Organizing and presenting knowledge is often a helpful way to reinforce the knowledge as well.
-
 ## Making Purchases
 
 There are two ways to acquire items for Base Two: use the company card via the "Purchasing Agent" or expense a purchase you have made personally.
@@ -103,13 +91,9 @@ _**Note:** Expenses should be submitted within two weeks so that we can better t
 6. _Mark it billable_ (this helps us keep track of which expenses have been paid)
 7. Save!
 
-## The Office
-
-There are many ways to enter our Columbus office. If you encounter a keypad at any point, you will find [this document](https://b2io.slack.com/archives/C904HLD5L/p1516982371000264) helpful.
-
 ## Remote Work
 
-We want you to work wherever you are most comfortable and productive. We strive to make the office that comfortable and productive place, but depending on your personality, location, or responsibilities working elsewhere may make sense on some days or every day. Feel free to work from home, a coffee shop, co-working space, or wherever you feel is best suited for your work.
+We want you to work wherever you are most comfortable and productive. Feel free to work from home, a coffee shop, co-working space, or wherever you feel is best suited for your work.
 
 When working in a space different from your typical remote workspace, please keep the following in mind:
 
@@ -178,9 +162,7 @@ Our goal is to be prepared for client meetings 15 minutes before they begin, reg
 
 ### Remote Meetings
 
-We use [Zoom](https://zoom.us/) for remote meetings. You can sign-up and use Zoom for free with your Base Two email address. The free version works great for 1-1 video calls, but is limited to 40 minutes when there are multiple attendees. We have a paid account through info@base2.io, which is useful for client meetings. The password for the paid account can be found in the [credentials document](https://b2io.slack.com/archives/C904HLD5L/p1516982426000280).
-
-We also use Google Meet for both internal and client meetings. Google Meet integrates with your Base Two Google Calendar, and you should not have to download any external software to use it.
+We use Google Meet for remote meetings. Google Meet integrates with your Base Two Google Calendar, and you should not have to download any external software to use it.
 
 Base Two is on a professional Slack plan, and Slack Huddles are a third option for remote meetings. To huddle, you must have a paid Slack Connection contract with your collegue, so huddles with clients aren't always feasible. However, Huddles are a great option for quick internal meetings.
 
@@ -200,7 +182,8 @@ Every team member is welcome to choose their hardware, software, and development
 
 Team members recommend some of the following tools for personal workflow:
 
-- VSCode: IDE
+- VSCode, JetBrains, Windsurg: IDEs
 - Google Sites: quick information sharing
-- iTerm 2: terminal
+- iTerm 2/Powershell: terminal
 - Oh My Zsh: git configuration management
+- Kiro CLI for terminal autocompletion/automation

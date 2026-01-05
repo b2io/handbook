@@ -10,7 +10,7 @@ We created the following list order to clarify, for ourselves, what we look for 
 
 ### Developer
 
-**Skills** &mdash; Our company revolves around skilled people. We look for candidates who will bring unique and creative perspectives to our team. For full-time hires, we look for people who are self-assured in and have enthusiasm for their craft. When we're looking for apprentices, we seek out folks who have already gotten their feet wet in the field, whether self-taught or via coding bootcamps.
+**Skills** &mdash; Our company revolves around skilled people. We look for candidates who will bring unique and creative perspectives to our team. For full-time hires, we look for people who are self-assured in and have enthusiasm for their craft.
 
 **Learning** &mdash; Ours is an industry where continuous learning is not only an opportunity, but a requirement. We look for folks who are enthusiastic about staying up-to-date with the industry and learning new technologies.
 
@@ -34,7 +34,7 @@ We created the following list order to clarify, for ourselves, what we look for 
 
 ## How We Hire
 
-We keep track of submissions made via the [jobs page](http://base2.io/jobs) on our website. We discuss applicants, as well as people we know who might be interested, during our weekly meeting. Once we narrow the pool down to folks we are interested in talking to, we reach out to those applicants and set up a meeting (either in-person or video conference). For accommodations related to completing a job application, please contact [info@base2.io](mailto:jobs@base2.io).
+We keep track of submissions made via the a dedicated jobs page (inactive in non-hiring periods) on our website. We discuss applicants, as well as people we know who might be interested, during our weekly meeting. Once we narrow the pool down to folks we are interested in talking to, we reach out to those applicants and set up a meeting (either in-person or video conference). For accommodations related to completing a job application, please contact [info@base2.io](mailto:jobs@base2.io).
 
 We start by having a few members of the team meet a candidate, and then follow up with a whole-team meeting. In both meetings, candidates are welcome to ask questions and get a feel for the team environment. We make this handbook available publicly in part so that candidates can get a clear picture of our company during the interview process.
 

@@ -118,7 +118,7 @@ In addition to these 13 holidays we also close the office for Base Two Day. Base
 
 We all get sick. Some years are better than others, but we won't pretend to know how many days that will be. Therefore we have unlimited sick days.
 
-There is no sense in working through a cold. Stay home, take the day off, and focus on getting better. We simply ask that you let the team know that you won't be working, and do what you can to put your co-workers in the best position to manage the work while you're out.
+There is no sense in working through a cold. Take the day off, and focus on getting better. We simply ask that you let the team know that you won't be working, and do what you can to put your co-workers in the best position to manage the work while you're out.
 
 ## Family, Medical, and Extended Leave
 

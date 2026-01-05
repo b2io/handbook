@@ -1,6 +1,6 @@
-# Base Two Guide to Life, the Universe, and Everything
+# Base Two Handbook
 
-### It is dangerous to go alone. Take this.
+### Table of Contents
 
 1. [Who we are](who-we-are.md)
 2. [On-boarding](on-boarding.md)

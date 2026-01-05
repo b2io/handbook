@@ -1,16 +1,16 @@
 # Who we are
 
-Base Two is a multi-city company of experienced developers working together to create software that moves people. We work as individuals and teams with small and large companies — local and abroad — to improve processes around software development and deliver user-focused products and applications. We build software that helps real people solve real problems with greater ease through a flexible approach that prioritizes our clients and the end-user.
+Base Two is a location-agnostic company of experienced developers working together to create software that moves people. We work as individuals and teams with small and large companies — local and abroad — to improve processes around software development and deliver user-focused products and applications. We build software that helps real people solve real problems with greater ease through a flexible approach that prioritizes our clients and the end-user.
 
 We strive to be a forward-thinking and constantly improving collection of knowledgeable individuals. We work together to exceed what we could do alone. Openness, honesty, and empathy are the building blocks of our culture.
 
 ## History of Base Two
 
-Base Two was co-founded in 2011 by Drew Miller and Zack Brown. Both had gained experience working for sales-driven software consultancies and they wanted to try a different approach to consulting.
+Base Two was co-founded in 2011 by Drew Miller and Zack Brown. Both had gained experience working for sales-driven software consultancies and they wanted to try a more human-centered approach to consulting.
 
-Their aim was to create sustainable, efficient, and mutually-beneficial relationships with clients. By creating transparent, honest pricing and processes, they set out to show that Base Two is an organization that delivers on its agreements and values long-term client engagements.
+The goal was to create sustainable, efficient, and mutually-beneficial relationships with clients. By creating transparent, honest pricing and processes, they set out to show that Base Two is an organization that delivers on its commitments and values long-term partnerships..
 
-Having been underpaid, overworked, and underappreciated at sales-driven organizations in the past, they also hoped to create a consultancy that values its developers. Base Two was founded on the belief that having an intelligent, well-rounded, and motivated team is the most important thing; without that, everything you pitch is an empty promise.
+Having been underpaid, overworked, and underappreciated in the past, they also hoped to create a consultancy that values its developers. Base Two was founded on the belief that a smartl, well-rounded, and motivated team is the most important thing; without that, even the best pitch is just an empty promise.
 
 ## Our Culture
 
@@ -18,7 +18,7 @@ We strive to create a work environment and culture that supports and drives soft
 
 ### Motivation and Flexibility
 
-We are a team of self-driven people built to motivate self-driven people. Rather than institute a hierarchy of managers to point employees in a direction each day, we rely on our employees to be autonomous. With that autonomy we entrust you to identify and prioritize your tasks and responsibilities, and we provide you with the flexibility to choose the best time and place to accomplish those tasks. This flexibility allows you to work within your life rather than instead of it.
+We are a team of self-driven people built to motivate self-driven people. Rather than institute a hierarchy of managers to point employees in a direction each day, we rely on our employees to be autonomous. With that autonomy we entrust them to identify and prioritize their tasks and responsibilities, and we provide them with the flexibility to choose the best time and place to accomplish those tasks. This flexibility allows our team to work within their lives rather than instead of it.
 
 ### Self-Improvement
 
@@ -30,7 +30,7 @@ We typically work on smaller 2-6 month projects that use forward-leaning technol
 
 In addition, we also provide access to online training opportunities and sponsor employee attendance at various technical conferences. We encourage community involvement through technical meetups and open source contributions. We support some work hours being devoted to [professional development](./day-to-day.md#professional-development)
 
-Career growth is facilitated and tracked. Individuals meet routinely with a team member to discuss career goals, track goal progress, and discuss feedback. Our flat hierarchy means that no one has a direct manager. We are accountable to, and advocate for each other.
+Career growth is facilitated and tracked. Individuals meet routinely with a senior member to discuss career goals, track goal progress, and discuss feedback. While Base Two maintains a flat, collaborative structure, managers serve as advocates and partners in growth rather than traditional top-down supervisors. We are accountable to, and advocate for each other.
 
 ### Honest and Open
 
@@ -42,7 +42,7 @@ Base Two is an internally transparent company. We make the majority of decisions
 
 #### Cost of Living Adjustments
 
-Cost of living adjustments are applied each January based on the previous year's [Social Security COLA](https://www.ssa.gov/oact/cola/colaseries.html) value. The adjustment applies to all full-time employees as of 12/31 of the previous year. To ensure the financial stability of the company through economic uncertainty the COLA increase will be limited to maximum of 5% for any given year, with the difference that exceeds the 5% cap carrying over to the next year. Salaries will not be reduced in the case of a negative COLA value. The negative value will be held in reserve to offset future COLA increases. 
+Cost of living adjustments are applied each January based on the previous year's [Social Security COLA](https://www.ssa.gov/oact/cola/colaseries.html) value. The adjustment applies to all full-time employees as of 12/31 of the previous year. To ensure the financial stability of the company through economic uncertainty the COLA increase will be limited to maximum of 5% for any given year, with the difference that exceeds the 5% cap carrying over to the next year. Salaries will not be reduced in the case of a negative COLA value. The negative value will be held in reserve to offset future COLA increases.
 
 #### Raises
 
@@ -57,6 +57,7 @@ As referenced earlier, employees are encouraged to keep up-to-date in the indust
 - [Jamstack](https://jamstackconf.com/)
 - [React Finland](https://react-finland.fi/)
 - [Drupal Gov Con](https://www.drupalgovcon.org/)
+- [Pittsburgh Tech Festival](https://www.pghtech.org/events)
 
 ## History of Programs
 
@@ -84,16 +85,28 @@ This is an optional daily zoom to give those who have time and interest a chance
 
 ### Lightening Talks
 
+<sup>_*inactive*_</sup>
+
 Implemented in late 2020, Lightening Talks are short (5-15 min) presentations team members have the opportunity to give biweekly. They can be technical or non-technical. This gives employees a chance to share knowledge about technical topic, or just fun stuff. Lightening Talk info can be found [here](https://drive.google.com/drive/folders/1ozg74kY_kEdRyTWFkE-Gttj0_MrOeCIG?usp=sharing). Currently we do lightening talks during bi-monthly Friday lunches.
 
 ### Friday Lunches
+
+<sup>_*inactive*_</sup>
 
 As our company grows and employees reside in different time zones, sometimes making a 9:00AM ET coffee chat meeting is not feasible. Twice a month, we have a calendar allotment for an optional colleague lunch. Employees are welcome to bring some food and have a casual chat, often times focused on an informal Lightening Talk topic.
 
 ### Know Your team
 
+<sup>_*inactive*_</sup>
+
 This product is used for people-management: to schedule 1:1s, facilitate shout-outs, and provide a platform for self-reflection.
 
 ### Professional Development Program
 
+<sup>_*inactive*_</sup>
+
 Please see the section about the [Professional Development Program](./day-to-day.md#professional-development) for more details
+
+### Weekly Game
+
+In 2025 we began a once-monthly, hour long, Friday afternoon game session. We primarily used Jackbox Party Pack games, but have also used other games. It was a fun way to break up the week and laugh a little on a Friday afternoon.
