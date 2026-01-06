@@ -10,7 +10,7 @@ Base Two was co-founded in 2011 by Drew Miller and Zack Brown. Both had gained e
 
 The goal was to create sustainable, efficient, and mutually-beneficial relationships with clients. By creating transparent, honest pricing and processes, they set out to show that Base Two is an organization that delivers on its commitments and values long-term partnerships..
 
-Having been underpaid, overworked, and underappreciated in the past, they also hoped to create a consultancy that values its developers. Base Two was founded on the belief that a smartl, well-rounded, and motivated team is the most important thing; without that, even the best pitch is just an empty promise.
+Having been underpaid, overworked, and underappreciated in the past, they also hoped to create a consultancy that values its developers. Base Two was founded on the belief that a smart, well-rounded, and motivated team is the most important thing; without that, even the best pitch is just an empty promise.
 
 ## Our Culture
 
