@@ -182,7 +182,7 @@ Every team member is welcome to choose their hardware, software, and development
 
 Team members recommend some of the following tools for personal workflow:
 
-- VSCode, JetBrains, Windsurg: IDEs
+- VSCode, JetBrains, Windsurf: IDEs
 - Google Sites: quick information sharing
 - iTerm 2/Powershell: terminal
 - Oh My Zsh: git configuration management
