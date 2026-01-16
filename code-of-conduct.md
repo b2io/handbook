@@ -4,7 +4,7 @@ Openness, honesty, and empathy are the building blocks of our culture. Being exc
 
 ## Dress Code
 
-Base Two does not have specific rules regarding appropriate dress. It is reccommended that employees do their best to adhere to the general dress regulations of a client company, even if they are just meeting virtually.
+Base Two does not have specific rules regarding appropriate dress. It is recommended that employees do their best to adhere to the general dress regulations of a client company, even if they are just meeting virtually.
 
 ## Drug and Alcohol Policy
 

@@ -24,7 +24,7 @@ We are not a sales-oriented company. We're not out there every day trying to fin
 
 ### Who We Work With
 
-Our roster ranges from multibillion-dollar, fortune 500 companies to small startups. We're flexible, and we're careful with our clients' money.
+Our roster ranges from multi-billion-dollar, Fortune 500 companies to small startups. We're flexible, and we're careful with our clients' money.
 
 ## Conversation End Goal
 
