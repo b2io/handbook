@@ -7,7 +7,7 @@ It is the responsibility of all Base Two employees to ensure that their machine 
 
 ## Login and Passwords
 
-All passwords should be hard to ascertain or break by using multiple letters, cases, numbers, and symbols and/or be phrases or long acronyms. Passwords should never be stored or transmitted in an unencrypted manner (such as via paper, email, message, or in a digital document). Passwords should not be shared among users. When multi-factor authentication is available it should be used. In the event of a possible system or password compromise, passwords should be changed and a supervisor should be contacted immediately to ensure that the risks have been properly analysed and mitigated, and so that all impacted clients and parties can be notified within 24 hours.
+All passwords should be hard to ascertain or break by using multiple letters, cases, numbers, and symbols and/or be phrases or long acronyms. Passwords should never be stored or transmitted in an unencrypted manner (such as via paper, email, message, or in a digital document). Passwords should not be shared among users. When multi-factor authentication is available it should be used. In the event of a possible system or password compromise, passwords should be changed and a supervisor should be contacted immediately to ensure that the risks have been properly analyzed and mitigated, and so that all impacted clients and parties can be notified within 24 hours.
 
 ## Destruction of Sensitive Information
 

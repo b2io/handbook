@@ -164,7 +164,7 @@ Our goal is to be prepared for client meetings 15 minutes before they begin, reg
 
 We use Google Meet for remote meetings. Google Meet integrates with your Base Two Google Calendar, and you should not have to download any external software to use it.
 
-Base Two is on a professional Slack plan, and Slack Huddles are a third option for remote meetings. To huddle, you must have a paid Slack Connection contract with your collegue, so huddles with clients aren't always feasible. However, Huddles are a great option for quick internal meetings.
+Base Two is on a professional Slack plan, and Slack Huddles are a third option for remote meetings. To huddle, you must have a paid Slack Connection contract with your colleague, so huddles with clients aren't always feasible. However, Huddles are a great option for quick internal meetings.
 
 ### Base Two Day
 
