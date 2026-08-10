@@ -98,7 +98,7 @@ We want you to work wherever you are most comfortable and productive. Feel free 
 When working in a space different from your typical remote workspace, please keep the following in mind:
 
 - Communicate your plans with the team so that everybody has shared expectations
-- Use best judgement on choice of communication medium: email, Slack, video call / Zoom, or phone call
+- Use best judgement on choice of communication medium: email, Slack, video call, or phone call
 - Be aware of the limitations of your location and minimize the impact as much as possible
 - Time tracking is your friend - it can help you feel more comfortable doing your personal activities without wondering whether or not you've done enough work for the day
 
@@ -172,12 +172,11 @@ Base Two Day is celebrated annually on August 26. It is the anniversary of the f
 
 ## We Use
 
-Every team member is welcome to choose their hardware, software, and development environment. In addition to Zoom for both internal and external meetings, and Harvest for time tracking, we use:
+Every team member is welcome to choose their hardware, software, and development environment. In addition to Google Meet for both internal and external meetings, and Harvest for time tracking, we use:
 
 - Slack: daily communication
-- Github: remote version control
-- Jira: project management
-- Google Suite: document storage and email
+- Github: remote version control and project management
+- Google Suite: meetings, document storage and email
 - Know Your Team: 1 on 1 meetings
 
 Team members recommend some of the following tools for personal workflow:
